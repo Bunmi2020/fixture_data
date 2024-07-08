@@ -18,64 +18,64 @@
         "match_two": [1,3],
         "match_three": [1,2],
         "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_five": [1,4],
+        "match_six": [0,1]
       },
       "x_goals": {
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": [0.52,2.22],
         "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
         "match_two": [1,2],
         "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_four": [6,5],
+        "match_five": [3,1],
+        "match_six": [3,0]
       },
       "fouls": {
         "match_one": [8,7],
         "match_two": [11,15],
         "match_three": [13,5],
-        "match_four": [5,11],
+        "match_four": [11,5],
         "match_five": [13,13],
-        "match_six": [9,14]
+        "match_six": [14,9]
       },
       "HT_cards": {
         "match_one": [2,3],
         "match_two": [0,3],
         "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_four": [1,3],
+        "match_five": [0,1],
+        "match_six": [1,0]
         },
         "FT_cards": {
           "match_one": [2,3],
           "match_two": [2,4],
           "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_four": [1,4],
+          "match_five": [1,3],
+          "match_six": [2,1]
           }
       },
     "home_team" : {
       "name": "Man City",
       "coach": "Guardiola Pep.",
       "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "ball possession",
-      "pressing_style": "high-pressing",
-      "attacking_style": "fast transition and strategic use of wide areas",
-      "defensive_style": "loose",
+      "playing_style": "Ball Possession",
+      "pressing_style": "High-pressing",
+      "attacking_style": "Fast transition and strategic use of wide areas",
+      "defensive_style": "Loose",
       "aggressive_players": ["Rodri"],
       "provocative_players": ["Phil Foden", "Jack Grealish"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Newcastle","Copenhagen","Man Utd","Brentford","Liverpool","Luton","Bournemouth"],
+        "teams": ["Newcastle (away)","Copenhagen (away)","Man Utd (away)","Brentford (away)","Liverpool (home)","Luton (home)","Bournemouth (home)"],
         
       "goals": {
         "match_one": [2,0],
@@ -83,51 +83,51 @@
         "match_three": [3,1],
         "match_four": [1,0],
         "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
+        "match_six": [6,2],
+        "match_seven": [1,0]
       },
       "x_goals": {
         "match_one": [1.37,0.26],
         "match_two": [0.67,1.15],
         "match_three": [3.15,0.19],
         "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
+        "match_five": [1.50,2.82],
+        "match_six": [3.33,2.58],
+        "match_seven": [1.53,0.79]
       },
       "corners": {
         "match_one": [11,2],
         "match_two": [4,4],
         "match_three": [15,2],
         "match_four": [10,1],
-        "match_five": [7,4],
+        "match_five": [4,7],
         "match_six": [2,2],
-        "match_seven": [3,8]
+        "match_seven": [8,3]
       },
       "fouls": {
         "match_one": [7,16],
         "match_two": [5,9],
         "match_three": [5,10],
         "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
+        "match_five": [10,6],
+        "match_six": [4,7],
+        "match_seven": [6,14]
       },
       "HT_cards": {
         "match_one": [0,2],
         "match_two": [0,0],
         "match_three": [0,0],
         "match_four": [1,1],
-        "match_five": [0,1],
+        "match_five": [1,0],
         "match_six": [0,0],
-        "match_seven": [1,0]
+        "match_seven": [0,1]
         },
         "FT_cards": {
           "match_one": [0,3],
           "match_two": [0,2],
           "match_three": [0,1],
           "match_four": [2,4],
-          "match_five": [0,3],
+          "match_five": [3,0],
           "match_six": [0,0],
           "match_seven": [2,2]
           }
@@ -137,43 +137,43 @@
       "name": "Arsenal",
       "coach": "Arteta Mikel",
       "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "quick attack",
-      "pressing_style": "high press",
-      "attacking_style": "vertical positional approach that prioritise quick, incisive attacks",
-      "defensive_style": "compact",
+      "playing_style": "Quick attack",
+      "pressing_style": "High press",
+      "attacking_style": "Vertical positional approach that prioritise quick, incisive attacks",
+      "defensive_style": "Compact",
       "aggressive_players": ["Kai Havertz","Bukayo Saka"],
       "provocative_players": ["Bukayo Saka","Kai Havertz"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Fc Porto","Brentford","Newcastle","Liverpool","Sheffield Utd","Fc Porto","Burnley"],
+        "teams": ["Fc Porto (home)","Brentford (home)","Newcastle (home)","Liverpool (home)","Sheffield Utd (away)","Fc Porto (away)","Burnley (away)"],
        
       "goals": {
         "match_one": [1,0],
         "match_two": [2,1],
         "match_three": [4,1],
         "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_five": [6,0],
+        "match_six": [0,1],
+        "match_seven": [5,0]
       },
       "x_goals": {
         "match_one": [1.08,0.59],
         "match_two": [1.26,0.94],
         "match_three": [2.40,0.14],
         "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_five": [1.95,0.26],
+        "match_six": [0.53,1.23],
+        "match_seven": [2.60,0.28]
       },
       "corners": {
         "match_one": [10,4],
         "match_two": [1,1],
         "match_three": [9,0],
         "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_five": [7,0],
+        "match_six": [10,1],
+        "match_seven": [6,4]
       },
       
       "fouls": {
@@ -181,27 +181,27 @@
         "match_two": [9,10],
         "match_three": [15,6],
         "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_five": [4,11],
+        "match_six": [22,14],
+        "match_seven": [8,11]
       },
       "HT_cards": {
         "match_one": [1,0],
         "match_two": [2,2],
         "match_three": [1,0],
         "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_five": [0,1],
+        "match_six": [1,0],
+        "match_seven": [1,2]
         },
         "FT_cards": {
           "match_one": [1,2],
           "match_two": [2,4],
           "match_three": [1,0],
           "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_five": [0,1],
+          "match_six": [3,2],
+          "match_seven": [1,2]
           }
       }
     },
@@ -231,14 +231,14 @@
         "match_two": [1,1],
         "match_three": [2,2],
         "match_four": [2,2],
-        "match_five": [2,1],
-        "match_six": [3,0]
+        "match_five": [1,2],
+        "match_six": [0,3]
       },
       "x_goals": {
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [2.31,2.74],
+        "match_four": [2.74,2.31],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -246,49 +246,49 @@
         "match_one": [9,2],
         "match_two": [5,3],
         "match_three": [5,3],
-        "match_four": [8,1],
-        "match_five": [3,2],
-        "match_six": [7,1]
+        "match_four": [1,8],
+        "match_five": [2,3],
+        "match_six": [1,7]
       },
       "fouls": {
         "match_one": [9,13],
         "match_two": [12,6],
         "match_three": [8,5],
-        "match_four": [12,20],
-        "match_five": [10,15],
-        "match_six": [8,15]
+        "match_four": [20,212],
+        "match_five": [15,10],
+        "match_six": [15,8]
       },
       "HT_cards": {
         "match_one": [0,1],
         "match_two": [1,0],
         "match_three": [0,0],
         "match_four": [0,0],
-        "match_five": [0,1],
-        "match_six": [1,2]
+        "match_five": [1,0],
+        "match_six": [2,1]
         },
         "FT_cards": {
           "match_one": [1,1],
           "match_two": [1,0],
           "match_three": [2,2],
-          "match_four": [1,2],
-          "match_five": [1,4],
-          "match_six": [1,3]
+          "match_four": [2,1],
+          "match_five": [4,1],
+          "match_six": [3,1]
           }
       },
     "home_team" : {
       "name": "Liverpool",
       "coach": "Klopp Joggen",
       "team_logo": "https://drive.google.com/file/d/1lPOn1LgsfGzTuKLTR_rz2WpEmsr73pGk/preview",
-      "playing_style": "fast-paced, attacking football",
+      "playing_style": "Fast-paced, attacking football",
       "pressing_style": "Gegenpressing",
-      "attacking_style": "dynamic attacking",
-      "defensive_style": "loose",
+      "attacking_style": "Dynamic attacking",
+      "defensive_style": "Loose",
       "aggressive_players": ["Wataru Endo","Alexis Mac Allister","Luis Diaz"],
       "provocative_players": ["Alexis Mac Allister", "Luis Diaz"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Sparta Prague","Man City","Southampton","Luton","Manchester Utd","Sparta Prague","Nottingham"],
+        "teams": ["Sparta Prague (away)","Man City (away)","Southampton (away)","Luton (away)","Manchester Utd (home)","Sparta Prague (home)","Nottingham (home)"],
         
       "goals": {
         "match_one": [6,1],
@@ -296,35 +296,35 @@
         "match_three": [3,0],
         "match_four": [4,1],
         "match_five": [2,2],
-        "match_six": [1,5],
-        "match_seven": [0,1]
+        "match_six": [5,1],
+        "match_seven": [1,0]
       },
       "x_goals": {
         "match_one": [4.14,0.36],
         "match_two": [2.82,1.50],
         "match_three": [1.45,1.65],
         "match_four": [3.35,1.03],
-        "match_five": [3.19,1.87],
-        "match_six": [0.81,2.16],
-        "match_seven": [1.10, 2.10]
+        "match_five": [1.87,3.19],
+        "match_six": [2.16,0.81],
+        "match_seven": [2.10,1.10]
       },
       "corners": {
         "match_one": [8,2],
         "match_two": [7,4],
         "match_three": [7,8],
         "match_four": [13,4],
-        "match_five": [5,8],
-        "match_six": [5,3],
-        "match_seven": [3,12]
+        "match_five": [8,5],
+        "match_six": [3,5],
+        "match_seven": [12,3]
       },
       "fouls": {
         "match_one": [7,4],
         "match_two": [6,10],
         "match_three": [10,2],
         "match_four": [15,14],
-        "match_five": [11,12],
-        "match_six": [12,9],
-        "match_seven": [11,12]
+        "match_five": [12,11],
+        "match_six": [9,12],
+        "match_seven": [12,11]
       },
       "HT_cards": {
         "match_one": [0,0],
@@ -340,9 +340,9 @@
           "match_two": [0,3],
           "match_three": [0,1],
           "match_four": [1,4],
-          "match_five": [1,2],
-          "match_six": [2,0],
-          "match_seven": [3,2]
+          "match_five": [2,1],
+          "match_six": [0,2],
+          "match_seven": [2,3]
           }
       }
     },
@@ -350,24 +350,24 @@
       "name": "Brighton",
       "coach": "De Zerbi R",
       "team_logo": "https://drive.google.com/file/d/1SrjUQGWIV3ojMrwiUrXVq7VP7YUEhUuY/preview",
-      "playing_style": "possession",
-      "pressing_style": "high and narrow",
-      "attacking_style": "wing play",
-      "defensive_style": "compact",
+      "playing_style": "Possession",
+      "pressing_style": "High and narrow",
+      "attacking_style": "Wing play",
+      "defensive_style": "Compact",
       "aggressive_players": ["Carlos Balepa ","Noom Quomah"],
       "provocative_players": ["Joao Pedro","Joel Veltman","Facundo Buonanotte"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["AS Roma","Fulham","Wolves","Sheffield Utd","AS Roma","Brighton","Everton"],
+        "teams": ["AS Roma (home)","Fulham (home)","Wolves (home)","Sheffield Utd (home)","AS Roma(away)","Brighton (away)","Everton (away)"],
        
       "goals": {
         "match_one": [4,0],
         "match_two": [3,0],
         "match_three": [1,0],
         "match_four": [0,5],
-        "match_five": [1,0],
-        "match_six": [1,0],
+        "match_five": [0,1],
+        "match_six": [0,1],
         "match_seven": [1,1]
       },
       "x_goals": {
@@ -375,18 +375,18 @@
         "match_two": [1.09,1.11],
         "match_three": [1.32,0.91],
         "match_four": [0.64,3.34],
-        "match_five": [1.49,0.41],
-        "match_six": [0.51,0.64],
-        "match_seven": [1.36,0.28]
+        "match_five": [0.41,1.49],
+        "match_six": [0.64,0.51],
+        "match_seven": [0.28,1.36]
       },
       "corners": {
         "match_one": [5,6],
         "match_two": [2,6],
         "match_three": [3,7],
         "match_four": [5,10],
-        "match_five": [5,1],
-        "match_six": [6,3],
-        "match_seven": [11,3]
+        "match_five": [1,5],
+        "match_six": [3,6],
+        "match_seven": [3,11]
       },
       
       "fouls": {
@@ -394,27 +394,27 @@
         "match_two": [16,10],
         "match_three": [15,7],
         "match_four": [3,5],
-        "match_five": [15,13],
+        "match_five": [13,15],
         "match_six": [14,14],
-        "match_seven": [9,14]
+        "match_seven": [14,9]
       },
       "HT_cards": {
         "match_one": [0,1],
         "match_two": [0,1],
         "match_three": [0,1],
         "match_four": [1,1],
-        "match_five": [3,5],
-        "match_six": [1,2],
-        "match_seven": [0,1]
+        "match_five": [5,3],
+        "match_six": [2,1],
+        "match_seven": [1,0]
         },
         "FT_cards": {
           "match_one": [1,2],
           "match_two": [1,2],
           "match_three": [3,2],
           "match_four": [1,4],
-          "match_five": [3,6],
+          "match_five": [6,3],
           "match_six": [4,4],
-          "match_seven": [2,3]
+          "match_seven": [3,2]
           }
       }
     },
@@ -492,70 +492,70 @@
       "name":"Brentford",
       "coach": "Frank Thomas.",
       "team_logo": "https://drive.google.com/file/d/1BhWdNNVPUEEp7_oufGJG_zpKCHUQItHq/preview",
-      "playing_style": "intense vertical build-play",
-      "pressing_style": "man-to-man intense",
-      "attacking_style": "high press and quick switch",
-      "defensive_style": "loose",
+      "playing_style": "Intense vertical build-play",
+      "pressing_style": "Man-to-man intense",
+      "attacking_style": "High press and quick switch",
+      "defensive_style": "Loose",
       "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
       "provocative_players": ["Yoane Wissa", "Bryan Mbeumo"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Chelsea","Liverpool","Man City","Nottingham","Burnley","Arsenal","West Ham"],
+        "teams": ["Chelsea (away)","Liverpool (away)","Man City (away)","Nottingham (away)","Burnley (home)","Arsenal (home)","West Ham (home)"],
         
       "goals": {
         "match_one": [2,2],
         "match_two": [1,4],
         "match_three": [1,3],
         "match_four": [3,2],
-        "match_five": [2,1],
-        "match_six": [2,1],
-        "match_seven": [4,2]
+        "match_five": [1,2],
+        "match_six": [1,2],
+        "match_seven": [2,4]
       },
       "x_goals": {
         "match_one": [2.07,1.66],
         "match_two": [1.31,2.11],
         "match_three": [1.08,2.35],
         "match_four": [1.47, 1.22],
-        "match_five": [2.89,1.09],
-        "match_six": [1.26,0.94],
-        "match_seven": [1.56,1.05]
+        "match_five": [1.09,2.89],
+        "match_six": [0.94,1.26],
+        "match_seven": [1.05,1.56]
       },
       "corners": {
         "match_one": [0,6],
         "match_two": [1,6],
         "match_three": [8,13],
         "match_four": [6,4],
-        "match_five": [5,4],
-        "match_six": [10,4],
-        "match_seven": [1,7]
+        "match_five": [4,5],
+        "match_six": [4,10],
+        "match_seven": [7,1]
       },
       "fouls": {
         "match_one": [10,9],
         "match_two": [4,18],
         "match_three": [2,4],
         "match_four": [10,14],
-        "match_five": [14,17],
-        "match_six": [9,10],
-        "match_seven": [5,9]
+        "match_five": [17,14],
+        "match_six": [10,9],
+        "match_seven": [9,5]
       },
       "HT_cards": {
         "match_one": [0,1],
         "match_two": [1,0],
         "match_three": [1,0],
         "match_four": [0,1],
-        "match_five": [0,1],
+        "match_five": [1,0],
         "match_six": [2,2],
-        "match_seven": [0,1]
+        "match_seven": [1,0]
         },
         "FT_cards": {
           "match_one": [3,1],
           "match_two": [2,1],
           "match_three": [1,0],
           "match_four": [1,3],
-          "match_five": [2,4],
-          "match_six": [2,4],
-          "match_seven": [1,2]
+          "match_five": [4,2],
+          "match_six": [4,2],
+          "match_seven": [2,1]
           }
       }
     },
@@ -563,16 +563,16 @@
       "name":"Man Utd",
       "coach": "Ten Hag",
       "team_logo": "https://drive.google.com/file/d/1wb3yw6hVdrQ35EnYdL897kkCyykjqQKb/preview",
-      "playing_style": "midblock with long direct forward passes",
-      "pressing_style": "midblock",
-      "attacking_style": "counter attacking",
-      "defensive_style": "loose",
+      "playing_style": "Midblock with long direct forward passes",
+      "pressing_style": "Midblock",
+      "attacking_style": "Counter attacking",
+      "defensive_style": "Loose",
       "aggressive_players": ["Diogo Dalot","Bruno Fernandes"],
       "provocative_players": ["Alejandro Garnacho",""],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Man City","Nottingham","Luton","Aston Villa","Liverpool","Everton","Fulham"],
+        "teams": ["Man City (home)","Nottingham (home)","Luton (home)","Aston Villa (home)","Liverpool (away)","Everton (away)","Fulham (away)"],
        
       "goals": {
         "match_one": [3,1],
@@ -580,26 +580,26 @@
         "match_three": [1,2],
         "match_four": [3,1],
         "match_five": [2,2],
-        "match_six": [2,0],
-        "match_seven": [1,2]
+        "match_six": [0,2],
+        "match_seven": [2,1]
       },
       "x_goals": {
         "match_one": [3.15,0.19],
         "match_two": [0.64,2.01],
         "match_three": [1.75,3.11],
         "match_four": [2.77,1.81],
-        "match_five": [3.19,1.87],
-        "match_six": [2.93,1.26],
-        "match_seven": [1.66,1.10]
+        "match_five": [1.87,3.19],
+        "match_six": [1.26,2.93],
+        "match_seven": [1.10,1.66]
       },
       "corners": {
         "match_one": [15,2],
         "match_two": [5,5],
         "match_three": [8,6],
         "match_four": [10,8],
-        "match_five": [5,8],
-        "match_six": [5,8],
-        "match_seven": [10,9]
+        "match_five": [8,5],
+        "match_six": [8,5],
+        "match_seven": [9,10]
       },
       
       "fouls": {
@@ -607,9 +607,9 @@
         "match_two": [7,7],
         "match_three": [7,21],
         "match_four": [9,7],
-        "match_five": [11,12],
-        "match_six": [13,11],
-        "match_seven": [6,11]
+        "match_five": [12,11],
+        "match_six": [11,13],
+        "match_seven": [11,6]
       },
       "HT_cards": {
         "match_one": [0,0],
@@ -617,8 +617,8 @@
         "match_three": [1,3],
         "match_four": [1,2],
         "match_five": [1,1],
-        "match_six": [0,2],
-        "match_seven": [1,3]
+        "match_six": [2,0],
+        "match_seven": [3,1]
         },
         "FT_cards": {
           "match_one": [0,1],
@@ -626,8 +626,8 @@
           "match_three": [3,5],
           "match_four": [3,2],
           "match_five": [3,3],
-          "match_six": [1,2],
-          "match_seven": [2,5]
+          "match_six": [2,1],
+          "match_seven": [5,2]
           }
       }
     },
@@ -643,7 +643,7 @@
     "stadium": "Villa Park",
     "Weather": " ",
     "pitch_condition": "Good",
-    "type_of_match": "normal",
+    "type_of_match": "Normal",
     "referee": {
       "name":"Tierney Paul",
       "fouls_per_tackle": 0.64,
@@ -657,38 +657,38 @@
         "match_two": [2,3],
         "match_three": [0,0],
         "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [2,1]
+        "match_five": [0,1],
+        "match_six": [1,2]
       },
       "x_goals": {
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [ 1.27,1.74],
-        "match_five": [0.74,1.62],
+        "match_four": [1.74,1.27],
+        "match_five": [1.62,0.74],
         "match_six": [ ]
       },
       "corners": {
         "match_one": [7,8],
         "match_two": [6,7],
         "match_three": [5,3],
-        "match_four": [2,10],
-        "match_five": [5,6],
-        "match_six": [4,9]
+        "match_four": [10,2],
+        "match_five": [6,5],
+        "match_six": [9,4]
       },
       "fouls": {
         "match_one": [6,12],
         "match_two": [8,17],
         "match_three": [13,13],
-        "match_four": [19,9],
-        "match_five": [20,9],
-        "match_six": [15,8]
+        "match_four": [9,19],
+        "match_five": [9,20],
+        "match_six": [8,15]
       },
       "HT_cards": {
         "match_one": [0,2],
         "match_two": [0,0],
         "match_three": [1,0],
-        "match_four": [1,2],
+        "match_four": [2,1],
         "match_five": [1,1],
         "match_six": [1,1]
         },
@@ -696,25 +696,25 @@
           "match_one": [1,3],
           "match_two": [2,3],
           "match_three": [1,0],
-          "match_four": [4,2],
+          "match_four": [2,4],
           "match_five": [3,3],
-          "match_six": [4,3]
+          "match_six": [3,4]
           }
       },
     "home_team" : {
       "name":"Aston Villa",
       "coach": "Emery Unai",
       "team_logo": "https://drive.google.com/file/d/1v9dX-z_OJtKjBAxCNGn5VmZPTsXqfrSD/preview",
-      "playing_style": "possession",
-      "pressing_style": "high press",
-      "attacking_style": "central fluid attack",
-      "defensive_style": "compact",
+      "playing_style": "Possession",
+      "pressing_style": "High press",
+      "attacking_style": "Central fluid attack",
+      "defensive_style": "Compact",
       "aggressive_players": ["John McGinn","Douglas Luiz"],
       "provocative_players": ["John McGinn", "Ezri Konsa", "Ollie Watkins", "Douglas Luiz"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Ajax","Tottenham","Nottingham","Man Utd","West Ham","Ajax","Luton"],
+        "teams": ["Ajax (away)","Tottenham (away)","Nottingham (away)","Man Utd (away)","West Ham (home)","Ajax (home)","Luton (home)"],
         
       "goals": {
         "match_one": [4,0],
@@ -723,34 +723,34 @@
         "match_four": [1,2],
         "match_five": [1,1],
         "match_six": [0,0],
-        "match_seven": [2,3]
+        "match_seven": [3,2]
       },
       "x_goals": {
         "match_one": [1.35,0.33],
         "match_two": [0.82,1.78],
         "match_three": [3.35,2.45],
         "match_four": [2.77, 1.81],
-        "match_five": [1.77,0.54],
-        "match_six": [0.70,0.19],
-        "match_seven": [2.29,1.81]
+        "match_five": [0.54,1.77],
+        "match_six": [0.19,0.70],
+        "match_seven": [1.81,2.29]
       },
       "corners": {
         "match_one": [3,1],
         "match_two": [6,4],
         "match_three": [7,2],
         "match_four": [10,8],
-        "match_five": [7,10],
-        "match_six": [2,5],
-        "match_seven": [8,6]
+        "match_five": [10,7],
+        "match_six": [5,2],
+        "match_seven": [6,8]
       },
       "fouls": {
         "match_one": [8,8],
         "match_two": [11,15],
         "match_three": [7,16],
         "match_four": [9,7],
-        "match_five": [13,12],
-        "match_six": [18,11],
-        "match_seven": [8,19]
+        "match_five": [12,13],
+        "match_six": [11,18],
+        "match_seven": [19,8]
       },
       "HT_cards": {
         "match_one": [2,0],
@@ -759,7 +759,7 @@
         "match_four": [1,2],
         "match_five": [0,0],
         "match_six": [1,1],
-        "match_seven": [1,2]
+        "match_seven": [2,1]
         },
         "FT_cards": {
           "match_one": [2,2],
@@ -767,8 +767,8 @@
           "match_three": [1,2],
           "match_four": [3,2],
           "match_five": [3,3],
-          "match_six": [3,4],
-          "match_seven": [1,4]
+          "match_six": [4,3],
+          "match_seven": [4,1]
           }
       }
     },
@@ -776,43 +776,43 @@
       "name":"Wolves",
       "coach": "O'Neil Gary",
       "team_logo": "https://drive.google.com/file/d/1b35uJO4v8x1Gz5yd1_ZQmMjL3U2UPgFT/preview",
-      "playing_style": "fast-paced, direct counter attack",
-      "pressing_style": "low block",
-      "attacking_style": "counter attack",
-      "defensive_style": "compact",
+      "playing_style": "Fast-paced, direct Counter attack",
+      "pressing_style": "Low block",
+      "attacking_style": "Counter attack",
+      "defensive_style": "Compact",
       "aggressive_players": ["Mario Lemina","Nelson Semedo","Joao Gomes"],
       "provocative_players": ["Rayan Ait-Nouri","Matheus Cunha"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Newcastle","Tottenham","Chelsea","West Brom","Coventry","Fulham","Brighton"],
+        "teams": ["Newcastle (home)","Tottenham (home)","Chelsea (home)","West Brom (home)","Coventry (away)","Fulham (away)","Brighton (away)"],
        
       "goals": {
         "match_one": [3,0],
         "match_two": [1,2],
         "match_three": [2,4],
         "match_four": [0,2],
-        "match_five": [2,3],
-        "match_six": [2,1],
-        "match_seven": [1,0]
+        "match_five": [3,2],
+        "match_six": [1,2],
+        "match_seven": [0,1]
       },
       "x_goals": {
         "match_one": [2.29,0.70],
         "match_two": [1.12,1.59],
         "match_three": [1.94,2.01],
         "match_four": [0.84,0.65],
-        "match_five": [2.71,4.40],
-        "match_six": [0.46,1.24],
-        "match_seven": [1.32,0.91]
+        "match_five": [4.40,2.71],
+        "match_six": [1.24,0.46],
+        "match_seven": [0.91,1.32]
       },
       "corners": {
         "match_one": [3,5],
         "match_two": [10,4],
         "match_three": [10,1],
         "match_four": [8,7],
-        "match_five": [7,4],
-        "match_six": [3,4],
-        "match_seven": [3,7]
+        "match_five": [4,7],
+        "match_six": [4,3],
+        "match_seven": [7,3]
       },
       
       "fouls": {
@@ -820,27 +820,27 @@
         "match_two": [8,13],
         "match_three": [15,11],
         "match_four": [11,8],
-        "match_five": [11,9],
-        "match_six": [7,11],
-        "match_seven": [15,7]
+        "match_five": [9,11],
+        "match_six": [11,7],
+        "match_seven": [7,15]
       },
       "HT_cards": {
         "match_one": [0,0],
         "match_two": [0,0],
         "match_three": [1,2],
         "match_four": [0,0],
-        "match_five": [1,0],
-        "match_six": [1,0],
-        "match_seven": [1,0]
+        "match_five": [0,1],
+        "match_six": [0,1],
+        "match_seven": [0,1]
         },
         "FT_cards": {
           "match_one": [0,1],
           "match_two": [0,1],
           "match_three": [3,2],
           "match_four": [2,0],
-          "match_five": [2,1],
+          "match_five": [1,2],
           "match_six": [2,2],
-          "match_seven": [3,2]
+          "match_seven": [2,3]
           }
       }
     },
@@ -856,7 +856,7 @@
     "stadium": "Vitality Stadium",
     "Weather": " ",
     "pitch_condition": "Good",
-    "type_of_match": "normal",
+    "type_of_match": "Normal",
     "referee": {
       "name":"Barrott Samuel",
       "fouls_per_tackle": 0.63,
@@ -869,39 +869,39 @@
         "match_one": [3,0],
         "match_two": [4,1],
         "match_three": [3,1],
-        "match_four": [3,0],
-        "match_five": [1,0],
-        "match_six": [1,3]
+        "match_four": [0,3],
+        "match_five": [0,1],
+        "match_six": [3,1]
       },
       "x_goals": {
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [2.09,0.81],
-        "match_five": [1.00,0.46],
+        "match_four": [0.81,2.09],
+        "match_five": [0.46,1.00],
         "match_six": [ ]
       },
       "corners": {
         "match_one": [3,5],
         "match_two": [3,5],
         "match_three": [7,7],
-        "match_four": [8,7],
-        "match_five": [9,3],
-        "match_six": [2,5]
+        "match_four": [7,8],
+        "match_five": [3,9],
+        "match_six": [5,2]
       },
       "fouls": {
         "match_one": [12,8],
         "match_two": [12,6],
         "match_three": [5,14],
-        "match_four": [14,15],
-        "match_five": [11,12],
-        "match_six": [11,9]
+        "match_four": [14,14],
+        "match_five": [12,11],
+        "match_six": [9,11]
       },
       "HT_cards": {
         "match_one": [2,0],
         "match_two": [0,1],
         "match_three": [0,1],
-        "match_four": [1,0],
+        "match_four": [0,1],
         "match_five": [0,0],
         "match_six": [0,0]
         },
@@ -909,60 +909,60 @@
           "match_one": [2,0],
           "match_two": [3,2],
           "match_three": [0,4],
-          "match_four": [1,2],
-          "match_five": [1,3],
-          "match_six": [1,0]
+          "match_four": [2,1],
+          "match_five": [3,1],
+          "match_six": [0,1]
           }
       },
     "home_team" : {
       "name":"Bournemouth",
       "coach": "Iraola Andoni",
       "team_logo": "https://drive.google.com/file/d/18IHYTGW_UPm-Lm-8ABaqeDTa7r54U2f6/preview",
-      "playing_style": "compact, counter attacking",
-      "pressing_style": "counter-pressing",
-      "attacking_style": "counter",
-      "defensive_style": "loose",
+      "playing_style": "Compact, Counter attacking",
+      "pressing_style": "Counter-pressing",
+      "attacking_style": "Counter",
+      "defensive_style": "Loose",
       "aggressive_players": ["Justin Kluivert", "Ryan Christie", "Antoine Semenyo", "Dominic Solanke", "Marcos Senesi", "Lewis Cook"],
       "provocative_players": ["Dominic Solanke"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Luton","Sheffield Utd","Leicester","Man City","Burnley","Newcastle","Fulham"],
+        "teams": ["Luton (away)","Sheffield Utd (away)","Leicester (away)","Man City (away)","Burnley (home)","Newcastle (home)","Fulham (home)"],
         
       "goals": {
         "match_one": [4,3],
         "match_two": [2,2],
         "match_three": [0,1],
         "match_four": [0,1],
-        "match_five": [0,2],
+        "match_five": [2,0],
         "match_six": [2,2],
-        "match_seven": [3,1]
+        "match_seven": [1,3]
       },
       "x_goals": {
         "match_one": [2.58,2.09],
         "match_two": [2.70,1.15],
         "match_three": [2.34,1.40],
         "match_four": [0.79, 1.53],
-        "match_five": [1.60,1.19],
-        "match_six": [2.53,2.16],
-        "match_seven": [1.41,2.30]
+        "match_five": [1.19,1.60],
+        "match_six": [2.16,2.53],
+        "match_seven": [2.30,1.41]
       },
       "corners": {
         "match_one": [11,3],
         "match_two": [10,3],
         "match_three": [13,5],
         "match_four": [3,8],
-        "match_five": [7,2],
-        "match_six": [4,2],
-        "match_seven": [1,13]
+        "match_five": [2,7],
+        "match_six": [2,4],
+        "match_seven": [13,1]
       },
       "fouls": {
         "match_one": [16,11],
         "match_two": [12,11],
         "match_three": [15,16],
         "match_four": [14,6],
-        "match_five": [8,13],
-        "match_six": [9,23],
+        "match_five": [13,8],
+        "match_six": [23,9],
         "match_seven": [11,11]
       },
       "HT_cards": {
@@ -970,8 +970,8 @@
         "match_two": [2,1],
         "match_three": [1,1],
         "match_four": [1,0],
-        "match_five": [1,2],
-        "match_six": [0,1],
+        "match_five": [2,1],
+        "match_six": [1,0],
         "match_seven": [0,0]
         },
         "FT_cards": {
@@ -979,9 +979,9 @@
           "match_two": [3,5],
           "match_three": [4,5],
           "match_four": [2,2],
-          "match_five": [2,4],
-          "match_six": [1,3],
-          "match_seven": [1,2]
+          "match_five": [4,2],
+          "match_six": [3,1],
+          "match_seven": [2,1]
           }
       }
     },
@@ -990,22 +990,22 @@
       "coach": "Dyche Sean",
       "team_logo": "https://drive.google.com/file/d/1NQD8iRIjVZGUgM7PayJBXw9MXyaS8LAk/preview",
       "playing_style": "vertical, direct football",
-      "pressing_style": "high press from attacking players only",
-      "attacking_style": "vertical counter attacks",
-      "defensive_style": "low block compact",
+      "pressing_style": "High press from attacking players only",
+      "attacking_style": "Vertical Counter attacks",
+      "defensive_style": "Low block Compact",
       "aggressive_players": ["Abdoulaye Doucoure","James Tarkowski ","James Garner"],
       "provocative_players": ["Amadou Onana", "James Garner"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Man Utd","Brighton","Man City","Fulham","West Ham","Crystal Palace","Tottenham"],
+        "teams": ["Man Utd (home)","Brighton (home)","Man City (home)","Fulham (home)","West Ham (away)","Crystal Palace (away)","Tottenham (away)"],
        
       "goals": {
         "match_one": [2,0],
         "match_two": [1,1],
         "match_three": [2,0],
         "match_four": [0,0],
-        "match_five": [1,3],
+        "match_five": [3,1],
         "match_six": [1,1],
         "match_seven": [2,2]
       },
@@ -1014,18 +1014,18 @@
         "match_two": [1.26,0.94],
         "match_three": [1.38,0.24],
         "match_four": [1.82,1.25],
-        "match_five": [2.47,1.21],
-        "match_six": [1.66,0.62],
-        "match_seven": [2.49,0.90]
+        "match_five": [1.21,2.47],
+        "match_six": [0.62,1.66],
+        "match_seven": [0.90,2.49]
       },
       "corners": {
         "match_one": [5,8],
         "match_two": [11,3],
         "match_three": [9,0],
         "match_four": [15,6],
-        "match_five": [4,5],
-        "match_six": [3,6],
-        "match_seven": [9,5]
+        "match_five": [5,4],
+        "match_six": [6,3],
+        "match_seven": [5,9]
       },
       
       "fouls": {
@@ -1033,9 +1033,9 @@
         "match_two": [9,14],
         "match_three": [6,11],
         "match_four": [6,13],
-        "match_five": [9,6],
-        "match_six": [8,12],
-        "match_seven": [8,14]
+        "match_five": [6,9],
+        "match_six": [12,8],
+        "match_seven": [14,8]
       },
       "HT_cards": {
         "match_one": [0,1],
@@ -1051,9 +1051,9 @@
           "match_two": [3,3],
           "match_three": [0,2],
           "match_four": [1,2],
-          "match_five": [1,2],
-          "match_six": [0,2],
-          "match_seven": [3,0]
+          "match_five": [2,1],
+          "match_six": [2,0],
+          "match_seven": [0,3]
           }
       }
     },
@@ -1082,15 +1082,15 @@
         "match_one": [1,1],
         "match_two": [2,0],
         "match_three": [3,0],
-        "match_four": [1,4],
-        "match_five": [0,4],
-        "match_six": [0,3]
+        "match_four": [4,1],
+        "match_five": [4,0],
+        "match_six": [3,0]
       },
       "x_goals": {
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [0.49,1.49],
+        "match_four": [1.49,0.49],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -1098,23 +1098,23 @@
         "match_one": [14,2],
         "match_two": [4,2],
         "match_three": [10,3],
-        "match_four": [7,3],
-        "match_five": [5,2],
-        "match_six": [3,4]
+        "match_four": [3,7],
+        "match_five": [2,5],
+        "match_six": [4,3]
       },
       "fouls": {
         "match_one": [6,9],
         "match_two": [7,9],
         "match_three": [7,4],
-        "match_four": [11,9],
-        "match_five": [12,7],
-        "match_six": [10,15]
+        "match_four": [9,11],
+        "match_five": [7,12],
+        "match_six": [15,10]
       },
       "HT_cards": {
         "match_one": [0,0],
         "match_two": [0,0],
         "match_three": [0,1],
-        "match_four": [2,4],
+        "match_four": [4,2],
         "match_five": [0,0],
         "match_six": [0,0]
         },
@@ -1122,9 +1122,9 @@
           "match_one": [1,4],
           "match_two": [0,1],
           "match_three": [0,3],
-          "match_four": [2,4],
-          "match_five": [2,0],
-          "match_six": [1,0]
+          "match_four": [4,2],
+          "match_five": [0,2],
+          "match_six": [0,1]
           }
       },
     "home_team" : {
@@ -1132,15 +1132,15 @@
       "coach": "Pochettino M.",
       "team_logo": "https://drive.google.com/file/d/1DyU0XMaGBHr3-JYlRY8WdTCk3ILxA_Wi/preview",
       "playing_style": "narrow attacking lines, dynamic full-backs, and fast one-touch football",
-      "pressing_style": "high-pressing",
-      "attacking_style": "narrow attacking with one fullback higher up",
-      "defensive_style": "compact",
+      "pressing_style": "High-pressing",
+      "attacking_style": "Narrow attacking with one fullback Higher up",
+      "defensive_style": "Compact",
       "aggressive_players": ["Conor Gallagher", "Moises Caicedo"],
       "provocative_players": ["Conor Gallagher", "Moises Caicedo", "Raheem Sterling", "Nicolas Jackson"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Leicester","Newcastle","Leeds","Liverpool","Brentford","Man City","Crystal Palace"],
+        "teams": ["Leicester (away)","Newcastle (away)","Leeds (away)","Liverpool (away)","Brentford (home)","Man City (home)","Crystal Palace (home)"],
         
       "goals": {
         "match_one": [4,2],
@@ -1149,42 +1149,42 @@
         "match_four": [0,0],
         "match_five": [2,2],
         "match_six": [1,1],
-        "match_seven": [1,3]
+        "match_seven": [3,1]
       },
       "x_goals": {
         "match_one": [4.33,0.65],
         "match_two": [1.67,0.83],
         "match_three": [3.15,1.21],
         "match_four": [2.28, 1.77],
-        "match_five": [2.07,1.66],
-        "match_six": [2.81,1.42],
-        "match_seven": [0.50,1.24]
+        "match_five": [1.66,2.07],
+        "match_six": [1.42,2.81],
+        "match_seven": [1.24,0.50]
       },
       "corners": {
         "match_one": [7,3],
         "match_two": [0,4],
         "match_three": [5,4],
         "match_four": [6,5],
-        "match_five": [0,6],
-        "match_six": [12,1],
-        "match_seven": [1,7]
+        "match_five": [6,0],
+        "match_six": [1,12],
+        "match_seven": [7,1]
       },
       "fouls": {
         "match_one": [10,12],
         "match_two": [12,7],
         "match_three": [9,8],
         "match_four": [14,21],
-        "match_five": [10,9],
-        "match_six": [7,12],
-        "match_seven": [14,7]
+        "match_five": [9,10],
+        "match_six": [12,7],
+        "match_seven": [7,14]
       },
       "HT_cards": {
         "match_one": [0,0],
         "match_two": [1,0],
         "match_three": [2,0],
         "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,1],
+        "match_five": [1,0],
+        "match_six": [1,0],
         "match_seven": [0,0]
         },
         "FT_cards": {
@@ -1192,8 +1192,8 @@
           "match_two": [3,1],
           "match_three": [3,1],
           "match_four": [2,5],
-          "match_five": [3,1],
-          "match_six": [1,3],
+          "match_five": [1,3],
+          "match_six": [3,1],
           "match_seven": [2,2]
           }
       }
@@ -1202,43 +1202,43 @@
       "name":"Burnley",
       "coach": "Kompany Vincent",
       "team_logo": "https://drive.google.com/file/d/1RiTzXrSVpzK9ZwRLMWpHM0y4MJTYCDfC/preview",
-      "playing_style": "possession",
-      "pressing_style": "high press",
+      "playing_style": "Possession",
+      "pressing_style": "High press",
       "attacking_style": "attack with triangles and diamonds",
-      "defensive_style": "loose",
+      "defensive_style": "Loose",
       "aggressive_players": ["Sander Berge","Josh Brownhill"],
       "provocative_players": ["Josh Cullen"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["West Ham","Crystal Palace","Liverpool","Man City","Brentford","Bournemouth","Arsenal"],
+        "teams": ["West Ham (home)","Crystal Palace (home)","Liverpool (home)","Man City (home)","Brentford (away)","Bournemouth (away)","Arsenal (away)"],
        
       "goals": {
         "match_one": [2,2],
         "match_two": [3,0],
         "match_three": [3,1],
         "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [0,2],
-        "match_seven": [0,5]
+        "match_five": [6,0],
+        "match_six": [2,0],
+        "match_seven": [5,0]
       },
       "x_goals": {
         "match_one": [1.75,0.58],
         "match_two": [2.67,0.10],
         "match_three": [2.20,0.61],
         "match_four": [1.76,1.39],
-        "match_five": [2.89,1.09],
-        "match_six": [1.60,1.19],
-        "match_seven": [0.28,2.60]
+        "match_five": [1.09,2.89],
+        "match_six": [1.19,1.60],
+        "match_seven": [2.60,0.28]
       },
       "corners": {
         "match_one": [4,3],
         "match_two": [12,3],
         "match_three": [9,3],
         "match_four": [7,3],
-        "match_five": [5,4],
-        "match_six": [7,2],
-        "match_seven": [4,6]
+        "match_five": [4,5],
+        "match_six": [2,7],
+        "match_seven": [6,4]
       },
       
       "fouls": {
@@ -1246,27 +1246,27 @@
         "match_two": [8,14],
         "match_three": [11,13],
         "match_four": [3,13],
-        "match_five": [14,17],
-        "match_six": [8,13],
-        "match_seven": [11,8]
+        "match_five": [17,14],
+        "match_six": [13,8],
+        "match_seven": [8,11]
       },
       "HT_cards": {
         "match_one": [1,0],
         "match_two": [0,1],
         "match_three": [3,2],
         "match_four": [0,1],
-        "match_five": [0,1],
-        "match_six": [1,2],
-        "match_seven": [2,1]
+        "match_five": [1,0],
+        "match_six": [2,1],
+        "match_seven": [1,2]
         },
         "FT_cards": {
           "match_one": [2,4],
           "match_two": [3,2],
           "match_three": [3,2],
           "match_four": [2,2],
-          "match_five": [2,5],
-          "match_six": [2,4],
-          "match_seven": [2,1]
+          "match_five": [5,2],
+          "match_six": [4,2],
+          "match_seven": [1,2]
           }
       }
     },
@@ -1282,7 +1282,7 @@
     "stadium": "City Ground",
     "Weather": " ",
     "pitch_condition": "Good",
-    "type_of_match": "normal",
+    "type_of_match": "Normal",
     "referee": {
       "name":"Kavanagh Chris",
       "fouls_per_tackle": 0.53,
@@ -1303,24 +1303,24 @@
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [0.92,1.32],
-        "match_five": [1.73,0.46],
+        "match_four": [1.32,0.92],
+        "match_five": [0.46,1.73],
         "match_six": [ ]
       },
       "corners": {
         "match_one": [1,5],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [3,7],
-        "match_five": [5,4],
+        "match_four": [7,3],
+        "match_five": [4,5],
         "match_six": [ ]
       },
       "fouls": {
         "match_one": [11,13],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [7,12],
-        "match_five": [9,13],
+        "match_four": [12,7],
+        "match_five": [13,9],
         "match_six": [ ]
       },
       "HT_cards": {
@@ -1328,32 +1328,32 @@
         "match_two": [1,0],
         "match_three": [0,1],
         "match_four": [0,0],
-        "match_five": [0,1],
-        "match_six": [0,1]
+        "match_five": [1,0],
+        "match_six": [1,0]
         },
         "FT_cards": {
           "match_one": [1,4],
           "match_two": [3,1],
           "match_three": [4,3],
-          "match_four": [0,1],
-          "match_five": [0,2],
-          "match_six": [1,4]
+          "match_four": [1,0],
+          "match_five": [2,0],
+          "match_six": [4,1]
           }
       },
     "home_team" : {
       "name":"Nottingham",
       "coach": "Espirito Santo",
       "team_logo": "https://drive.google.com/file/d/1XDIbCWpgaerbt7zGyXtwDNF_498oVSBZ/preview",
-      "playing_style": "possession",
+      "playing_style": "Possession",
       "pressing_style": "low block",
       "attacking_style": "Counter-attacking",
-      "defensive_style": "compact",
+      "defensive_style": "Compact",
       "aggressive_players": ["Murillo","Ryan Yates"],
       "provocative_players": ["Morgan Gibbs-White", "Ryan Yates"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Liverpool","Man Utd","West Ham","Newcastle","Luton","Brighton","Aston Villa"],
+        "teams": ["Liverpool (away)","Man Utd (away)","West Ham (away)","Newcastle (away)","Luton (home)","Brighton (home)","Aston Villa (home)"],
         
       "goals": {
         "match_one": [0,1],
@@ -1361,53 +1361,53 @@
         "match_three": [2,0],
         "match_four": [2,3],
         "match_five": [1,1],
-        "match_six": [1,0],
-        "match_seven": [4,2]
+        "match_six": [0,1],
+        "match_seven": [2,4]
       },
       "x_goals": {
         "match_one": [1.10,2.10],
         "match_two": [0.64,2.10],
         "match_three": [2.79,0.60],
         "match_four": [1.17, 0.50],
-        "match_five": [0.47,1.54],
-        "match_six": [0.51,0.64],
-        "match_seven": [3.35,2.45]
+        "match_five": [1.54,0.47],
+        "match_six": [0.64,0.51],
+        "match_seven": [2.45,3.35]
       },
       "corners": {
         "match_one": [3,12],
         "match_two": [5,5],
         "match_three": [5,2],
         "match_four": [4,4],
-        "match_five": [6,7],
-        "match_six": [6,3],
-        "match_seven": [7,2]
+        "match_five": [7,6],
+        "match_six": [3,6],
+        "match_seven": [2,7]
       },
       "fouls": {
         "match_one": [11,12],
         "match_two": [7,7],
         "match_three": [13,15],
         "match_four": [9,6],
-        "match_five": [10,17],
+        "match_five": [17,10],
         "match_six": [14,14],
-        "match_seven": [7,16]
+        "match_seven": [16,7]
       },
       "HT_cards": {
         "match_one": [0,0],
         "match_two": [0,0],
         "match_three": [2,2],
         "match_four": [0,0],
-        "match_five": [1,0],
-        "match_six": [1,2],
-        "match_seven": [0,2]
+        "match_five": [0,1],
+        "match_six": [2,1],
+        "match_seven": [2,0]
         },
         "FT_cards": {
           "match_one": [3,2],
           "match_two": [0,1],
           "match_three": [4,6],
           "match_four": [1,2],
-          "match_five": [1,2],
+          "match_five": [2,1],
           "match_six": [4,4],
-          "match_seven": [1,2]
+          "match_seven": [2,1]
           }
       }
     },
@@ -1416,15 +1416,15 @@
       "coach": "Glasner Oliver",
       "team_logo": "https://drive.google.com/file/d/1c3Jj6dndt2A-e0KFvVwuGkKVQ72OusPh/preview",
       "playing_style": "well-structured defending, fluid midfield transitions, and dynamic attacking plays",
-      "pressing_style": "midblock pressing",
-      "attacking_style": "dynamic wing play",
-      "defensive_style": "compact",
+      "pressing_style": "Midblock pressing",
+      "attacking_style": "Dynamic wing play",
+      "defensive_style": "Compact",
       "aggressive_players": ["Jordan Ayew","Jefferson Lerma","Joachim","Andersen","Will Hughes"],
       "provocative_players": ["Jordan Ayew","Eberechi Eze","Michael Olise"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Tottenham","Everton","Brighton","Arsenal","Luton","Burnley","Chelsea"],
+        "teams": ["Tottenham (home)","Everton (home)","Brighton (home)","Arsenal (home)","Luton (away)","Burnley (away)","Chelsea (away)"],
        
       "goals": {
         "match_one": [3,1],
@@ -1432,26 +1432,26 @@
         "match_three": [4,1],
         "match_four": [5,0],
         "match_five": [1,1],
-        "match_six": [3,0],
-        "match_seven": [1,3]
+        "match_six": [0,3],
+        "match_seven": [3,1]
       },
       "x_goals": {
         "match_one": [1.58,0.41],
         "match_two": [1.66,0.62],
         "match_three": [1.68,0.32],
         "match_four": [3.50,0.38],
-        "match_five": [2.69,0.57],
-        "match_six": [2.67,0.10],
-        "match_seven": [0.50,1.24]
+        "match_five": [0.57,2.69],
+        "match_six": [0.10,2.67],
+        "match_seven": [1.24,0.50]
       },
       "corners": {
         "match_one": [11,1],
         "match_two": [3,6],
         "match_three": [3,2],
         "match_four": [6,7],
-        "match_five": [8,6],
-        "match_six": [12,3],
-        "match_seven": [1,7]
+        "match_five": [6,8],
+        "match_six": [3,12],
+        "match_seven": [7,1]
       },
       
       "fouls": {
@@ -1459,9 +1459,9 @@
         "match_two": [8,12],
         "match_three": [8,14],
         "match_four": [8,12],
-        "match_five": [20,11],
-        "match_six": [8,14],
-        "match_seven": [14,7]
+        "match_five": [11,20],
+        "match_six": [14,8],
+        "match_seven": [7,14]
       },
       "HT_cards": {
         "match_one": [0,0],
@@ -1469,7 +1469,7 @@
         "match_three": [1,1],
         "match_four": [0,0],
         "match_five": [1,1],
-        "match_six": [0,1],
+        "match_six": [1,0],
         "match_seven": [0,0]
         },
         "FT_cards": {
@@ -1477,8 +1477,8 @@
           "match_two": [0,2],
           "match_three": [1,3],
           "match_four": [0,0],
-          "match_five": [2,3],
-          "match_six": [3,1],
+          "match_five": [3,2],
+          "match_six": [1,3],
           "match_seven": [2,2]
           }
       }
@@ -1508,15 +1508,15 @@
         "match_one": [4,0],
         "match_two": [1,1],
         "match_three": [4,5],
-        "match_four": [3,1],
-        "match_five": [0,1],
-        "match_six": [1,0]
+        "match_four": [1,3],
+        "match_five": [1,0],
+        "match_six": [0,1]
       },
       "x_goals": {
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [2.22,0.61],
+        "match_four": [0.61,2.22],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -1524,49 +1524,49 @@
         "match_one": [2,7],
         "match_two": [2,5],
         "match_three": [4,3],
-        "match_four": [9,4],
-        "match_five": [7,2],
-        "match_six": [6,4]
+        "match_four": [4,9],
+        "match_five": [2,7],
+        "match_six": [4,6]
       },
       "fouls": {
         "match_one": [17,12],
         "match_two": [5,9],
         "match_three": [13,8],
-        "match_four": [8,10],
-        "match_five": [6,15],
-        "match_six": [11,14]
+        "match_four": [10,8],
+        "match_five": [15,6],
+        "match_six": [14,11]
       },
       "HT_cards": {
         "match_one": [1,0],
         "match_two": [0,1],
         "match_three": [2,2],
         "match_four": [0,0],
-        "match_five": [0,1],
-        "match_six": [1,0]
+        "match_five": [1,0],
+        "match_six": [0,1]
         },
         "FT_cards": {
           "match_one": [2,1],
           "match_two": [0,2],
           "match_three": [3,4],
-          "match_four": [1,2],
-          "match_five": [0,3],
-          "match_six": [1,2]
+          "match_four": [2,1],
+          "match_five": [3,0],
+          "match_six": [2,1]
           }
       },
     "home_team" : {
       "name":"Sheffield Utd",
       "coach": "Wilder Chris",
       "team_logo": "https://drive.google.com/file/d/1jqDPk7NjoaMGNs9dr3KKUVXSQdqh7oB_/preview",
-      "playing_style": "long, direct football",
-      "pressing_style": "low block",
-      "attacking_style": "counter attack through the wing",
-      "defensive_style": "compact",
+      "playing_style": "Long, direct football",
+      "pressing_style": "Low block",
+      "attacking_style": "Counter attack through the wing",
+      "defensive_style": "Compact",
       "aggressive_players": ["Gustavo Hamer", "Vinicius Souza", "Jayden Bogle"],
       "provocative_players": [" "],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Arsenal","Brighton","Aston Villa","Brighton","Bournemouth","Wolves","Luton"],
+        "teams": ["Arsenal (away)","Brighton (away)","Aston Villa (away)","Brighton (away)","Bournemouth (home)","Wolves (home)","Luton (home)"],
         
       "goals": {
         "match_one": [0,6],
@@ -1574,52 +1574,52 @@
         "match_three": [0,5],
         "match_four": [2,5],
         "match_five": [2,2],
-        "match_six": [1,0],
-        "match_seven": [1,3]
+        "match_six": [0,1],
+        "match_seven": [3,1]
       },
       "x_goals": {
         "match_one": [0.26,1.95],
         "match_two": [0.64,3.34],
         "match_three": [1.27,2.34],
         "match_four": [2.46, 2.60],
-        "match_five": [2.70,1.15],
-        "match_six": [1.23,0.58],
-        "match_seven": [0.79,1.53]
+        "match_five": [1.15,2.70],
+        "match_six": [0.58,1.23],
+        "match_seven": [1.53,0.79]
       },
       "corners": {
         "match_one": [0,7],
         "match_two": [5,10],
         "match_three": [3,4],
         "match_four": [9,3],
-        "match_five": [10,3],
-        "match_six": [5,6],
-        "match_seven": [3,8]
+        "match_five": [3,10],
+        "match_six": [6,5],
+        "match_seven": [8,3]
       },
       "fouls": {
         "match_one": [11,4],
         "match_two": [3,5],
         "match_three": [10,7],
         "match_four": [14,5],
-        "match_five": [12,11],
-        "match_six": [8,4],
-        "match_seven": [14,6]
+        "match_five": [11,12],
+        "match_six": [4,8],
+        "match_seven": [6,14]
       },
       "HT_cards": {
         "match_one": [1,0],
         "match_two": [1,1],
         "match_three": [1,0],
         "match_four": [2,0],
-        "match_five": [2,1],
+        "match_five": [1,2],
         "match_six": [0,0],
-        "match_seven": [1,0]
+        "match_seven": [0,1]
         },
         "FT_cards": {
           "match_one": [1,0],
           "match_two": [1,4],
           "match_three": [1,0],
           "match_four": [2,1],
-          "match_five": [3,5],
-          "match_six": [2,1],
+          "match_five": [5,3],
+          "match_six": [1,2],
           "match_seven": [2,2]
           }
       }
@@ -1628,42 +1628,42 @@
       "name":"Fulham",
       "coach": "Silva Marco",
       "team_logo": "https://drive.google.com/file/d/1GOunTMv7-uIpJ9teXrCHV0DYb1QGbC3m/preview",
-      "playing_style": "positional style, with dynamic attacking plays",
-      "pressing_style": "counterpressing",
-      "attacking_style": "central fluid attack",
-      "defensive_style": "compact",
+      "playing_style": "Positional style, with dynamic attacking plays",
+      "pressing_style": "Counterpressing",
+      "attacking_style": "Central fluid attack",
+      "defensive_style": "Compact",
       "aggressive_players": ["Joao Palhinha"],
       "provocative_players": ["Joao Palhinha","Harry Wilson"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Wolves","Man Utd","Burnley","Chelsea","Tottenham","Brighton","Aston Villa"],
+        "teams": ["Wolves (home)","Man Utd (home)","Burnley (home)","Chelsea (home)","Tottenham (away)","Brighton (away)","Aston Villa (away)"],
        
       "goals": {
         "match_one": [2,1],
         "match_two": [1,2],
         "match_three": [2,2],
         "match_four": [1,0],
-        "match_five": [3,0],
-        "match_six": [3,0],
-        "match_seven": [1,2]
+        "match_five": [0,3],
+        "match_six": [0,3],
+        "match_seven": [2,1]
       },
       "x_goals": {
         "match_one": [0.46,1.24],
         "match_two": [1.66,1.10],
         "match_three": [1.72,1.21],
         "match_four": [2.39,0.87],
-        "match_five": [2.93,2.31],
-        "match_six": [1.09,1.11],
-        "match_seven": [1.26,1.66]
+        "match_five": [2.31,2.93],
+        "match_six": [1.11,1.09],
+        "match_seven": [1.66,1.26]
       },
       "corners": {
         "match_one": [3,4],
         "match_two": [10,9],
         "match_three": [2,13],
         "match_four": [6,4],
-        "match_five": [4,5],
-        "match_six": [2,6],
+        "match_five": [5,4],
+        "match_six": [6,2],
         "match_seven": [4,4]
       },
       
@@ -1672,9 +1672,9 @@
         "match_two": [6,11],
         "match_three": [11,7],
         "match_four": [13,9],
-        "match_five": [9,10],
-        "match_six": [16,10],
-        "match_seven": [11,6]
+        "match_five": [10,9],
+        "match_six": [10,16],
+        "match_seven": [6,11]
       },
       "HT_cards": {
         "match_one": [1,0],
@@ -1682,17 +1682,17 @@
         "match_three": [0,2],
         "match_four": [1,0],
         "match_five": [0,0],
-        "match_six": [1,2],
-        "match_seven": [0,1]
+        "match_six": [2,1],
+        "match_seven": [1,0]
         },
         "FT_cards": {
           "match_one": [2,2],
           "match_two": [2,5],
           "match_three": [2,2],
           "match_four": [5,1],
-          "match_five": [2,3],
-          "match_six": [2,3],
-          "match_seven": [5,2]
+          "match_five": [3,2],
+          "match_six": [3,2],
+          "match_seven": [2,5]
           }
       }
     },
@@ -1707,8 +1707,8 @@
     "fixture": "Tottenham vs Luton",
     "stadium": "Tottenham Hotspur Stadium",
     "Weather": " ",
-    "pitch_condition": "excellent",
-    "type_of_match": "normal",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Normal",
     "referee": {
       "name":"Gillett Jarred",
       "fouls_per_tackle": 0.56,
@@ -1721,7 +1721,7 @@
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [0,1],
+        "match_four": [1,0],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -1729,7 +1729,7 @@
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [0.80,2.27],
+        "match_four": [2.27,0.80],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -1737,7 +1737,7 @@
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [5,6],
+        "match_four": [6,5],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -1745,7 +1745,7 @@
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [16,7],
+        "match_four": [7,16],
         "match_five": [ ],
         "match_six": [ ]
       },
@@ -1761,7 +1761,7 @@
           "match_one": [ ],
           "match_two": [ ],
           "match_three": [ ],
-          "match_four": [2,3],
+          "match_four": [3,2],
           "match_five": [ ],
           "match_six": [ ]
           }
@@ -1770,24 +1770,24 @@
       "name":"Tottenham",
       "coach": "Postecoglou A.",
       "team_logo": "https://drive.google.com/file/d/1zJJ0Qnpoo_3fk4htOguOM2OJpaK-tG_U/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "playing_style": "High-octane and aggressive",
+      "pressing_style": "Pressing high up the pitch",
+      "attacking_style": "Quick turnover and overload",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Destiny Udogie", "Dejan Kulusevski"],
+      "provocative_players": ["James Maddison", "Heung-min Son"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Crystal Palace","Wolves","Brighton","Brentford","Fulham","Aston Villa","Everton"],
+        "teams": ["Crystal Palace (away)","Wolves (away)","Brighton (away)","Brentford (away)","Fulham (home)","Aston Villa (home)","Everton (home)"],
         
       "goals": {
         "match_one": [3,1],
         "match_two": [3,1],
         "match_three": [3,1],
         "match_four": [3,2],
-        "match_five": [3,0],
-        "match_six": [0,4],
+        "match_five": [0,3],
+        "match_six": [4,0],
         "match_seven": [2,2]
       },
       "x_goals": {
@@ -1795,27 +1795,27 @@
         "match_two": [1.12,1.59],
         "match_three": [1.54,1.25],
         "match_four": [3.26,1.93],
-        "match_five": [2.93,2.31],
-        "match_six": [0.82,1.78],
-        "match_seven": [2.49,0.90]
+        "match_five": [2.31,2.93],
+        "match_six": [1.78,0.82],
+        "match_seven": [0,90,2.49]
       },
       "corners": {
         "match_one": [11,1],
         "match_two": [10,4],
         "match_three": [9,6],
         "match_four": [4,5],
-        "match_five": [7,4],
-        "match_six": [6,4],
-        "match_seven": [9,5]
+        "match_five": [4,7],
+        "match_six": [4,6],
+        "match_seven": [5,9]
       },
       "fouls": {
         "match_one": [7,16],
         "match_two": [8,11],
         "match_three": [14,13],
         "match_four": [9,10],
-        "match_five": [6,10],
-        "match_six": [11,15],
-        "match_seven": [8,14]
+        "match_five": [10,6],
+        "match_six": [15,11],
+        "match_seven": [14,8]
       },
       "HT_cards": {
         "match_one": [0,0],
@@ -1823,7 +1823,7 @@
         "match_three": [1,0],
         "match_four": [1,2],
         "match_five": [0,0],
-        "match_six": [0,1],
+        "match_six": [1,0],
         "match_seven": [0,0]
         },
         "FT_cards": {
@@ -1831,9 +1831,9 @@
           "match_two": [0,1],
           "match_three": [2,3],
           "match_four": [2,3],
-          "match_five": [2,3],
-          "match_six": [0,2],
-          "match_seven": [3,0]
+          "match_five": [3,2],
+          "match_six": [2,0],
+          "match_seven": [0,3]
           }
       }
     },
@@ -1841,16 +1841,16 @@
       "name":"Luton",
       "coach": "Edwards Rob",
       "team_logo": "https://drive.google.com/file/d/1zWsC9tZANY4yS5rxVXgB2qKKTjj5njfH/preview",
-      "playing_style": "long, direct football",
-      "pressing_style": "low block",
-      "attacking_style": "long counter",
-      "defensive_style": "compact",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "playing_style": "Long, direct football",
+      "pressing_style": "Low block",
+      "attacking_style": "Long Counter",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Carlton Morris"],
+      "provocative_players": ["Tahith chong","Chiedozie Ogbene", "Carlton Morris "],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Bournemouth","Crystal Palace","Liverpool","Newcastle","Nottingham","Aston Villa","Man City"],
+        "teams": ["Bournemouth (home)","Crystal Palace (home)","Liverpool (home)","Newcastle (home)","Nottingham (away)","Aston Villa (away)","Man City (away)"],
        
       "goals": {
         "match_one": [4,3],
@@ -1858,25 +1858,25 @@
         "match_three": [4,1],
         "match_four": [4,4],
         "match_five": [1,1],
-        "match_six": [2,3],
-        "match_seven": [2,6]
+        "match_six": [3,2],
+        "match_seven": [6,2]
       },
       "x_goals": {
         "match_one": [2.58,2.09],
         "match_two": [2.69,0.57],
         "match_three": [3.35,1.03],
         "match_four": [2.17,1.99],
-        "match_five": [0.47,1.54],
-        "match_six": [2.29,1.81],
-        "match_seven": [2.58,3.33]
+        "match_five": [1.54,0.47],
+        "match_six": [1.81,2.29],
+        "match_seven": [3.33,2.58]
       },
       "corners": {
         "match_one": [11,3],
         "match_two": [8,6],
         "match_three": [13,4],
         "match_four": [8,2],
-        "match_five": [6,7],
-        "match_six": [8,6],
+        "match_five": [7,6],
+        "match_six": [6,8],
         "match_seven": [2,2]
       },
       
@@ -1885,17 +1885,17 @@
         "match_two": [20,11],
         "match_three": [15,14],
         "match_four": [13,16],
-        "match_five": [10,17],
-        "match_six": [8,19],
-        "match_seven": [7,4]
+        "match_five": [17,10],
+        "match_six": [19,8],
+        "match_seven": [4,7]
       },
       "HT_cards": {
         "match_one": [0,1],
         "match_two": [1,1],
         "match_three": [0,2],
         "match_four": [0,0],
-        "match_five": [1,0],
-        "match_six": [1,2],
+        "match_five": [0,1],
+        "match_six": [2,1],
         "match_seven": [0,0]
         },
         "FT_cards": {
@@ -1903,8 +1903,8 @@
           "match_two": [2,3],
           "match_three": [1,4],
           "match_four": [2,2],
-          "match_five": [1,2],
-          "match_six": [1,4],
+          "match_five": [2,1],
+          "match_six": [4,1],
           "match_seven": [0,0]
           }
       }
@@ -1921,7 +1921,7 @@
     "stadium": "St. James' Park",
     "Weather": " ",
     "pitch_condition": "Good",
-    "type_of_match": "normal",
+    "type_of_match": "Normal",
     "referee": {
       "name":"Jones Robert",
       "fouls_per_tackle": 0.69,
@@ -1935,39 +1935,39 @@
         "match_two": [2,4],
         "match_three": [3,2],
         "match_four": [2,2],
-        "match_five": [1,5],
+        "match_five": [5,1],
         "match_six": [1,1]
       },
       "x_goals": {
         "match_one": [ ],
         "match_two": [ ],
         "match_three": [ ],
-        "match_four": [1.09,1.93],
-        "match_five": [0.88,3.39],
+        "match_four": [1.93,1.09],
+        "match_five": [3.39,0.88],
         "match_six": [ ]
       },
       "corners": {
         "match_one": [4,2],
         "match_two": [7,6],
         "match_three": [3,8],
-        "match_four": [4,2],
-        "match_five": [7,6],
-        "match_six": [3,7]
+        "match_four": [2,4],
+        "match_five": [6,7],
+        "match_six": [7,3]
       },
       "fouls": {
         "match_one": [11,13],
         "match_two": [4,3],
         "match_three": [9,7],
-        "match_four": [11,18],
-        "match_five": [11,12],
-        "match_six": [3,7]
+        "match_four": [18,11],
+        "match_five": [12,11],
+        "match_six": [7,3]
       },
       "HT_cards": {
         "match_one": [1,0],
         "match_two": [0,0],
         "match_three": [1,2],
-        "match_four": [2,1],
-        "match_five": [1,0],
+        "match_four": [1,2],
+        "match_five": [0,1],
         "match_six": [1,1]
         },
         "FT_cards": {
@@ -1975,7 +1975,7 @@
           "match_two": [1,0],
           "match_three": [2,3],
           "match_four": [3,3],
-          "match_five": [2,1],
+          "match_five": [1,2],
           "match_six": [3,3]
           }
       },
@@ -1983,24 +1983,24 @@
       "name":"Newcastle",
       "coach": "Howe Eddie",
       "team_logo": "https://drive.google.com/file/d/146iKxktFVdN6-Yp6xO9UGbN81HtecAEk/preview",
-      "playing_style": "possession and patient play from the back",
-      "pressing_style": "high press",
-      "attacking_style": "wing play and fluid movement",
-      "defensive_style": "compact",
+      "playing_style": "Possession and patient play from the back",
+      "pressing_style": "High press",
+      "attacking_style": "Wing play and fluid movement",
+      "defensive_style": "Compact",
       "aggressive_players": ["Bruno Guimaraes", "Fabian Schar", "Anthony Gordon"],
       "provocative_players": ["Bruno Guimaraes", "Anthony Gordon"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Wolves","Bournemouth","Luton","Man City","Man City","Chelsea","Blackburn"],
+        "teams": ["Wolves (away)","Bournemouth (away)","Luton (away)","Man City (away)","Man City (home)","Chelsea (home)","Blackburn (home)"],
         
       "goals": {
         "match_one": [3,0],
         "match_two": [2,2],
         "match_three": [4,4],
         "match_four": [2,3],
-        "match_five": [2,0],
-        "match_six": [3,2],
+        "match_five": [0,2],
+        "match_six": [2,3],
         "match_seven": [1,1]
       },
       "x_goals": {
@@ -2008,45 +2008,45 @@
         "match_two": [2.53,2.16],
         "match_three": [2.17,1.99],
         "match_four": [1.15, 3.27],
-        "match_five": [1.37,0.26],
-        "match_six": [1.67,0.83],
-        "match_seven": [1.26,3.64]
+        "match_five": [0.26,1.37],
+        "match_six": [0.83,1.67],
+        "match_seven": [3.64,1.26]
       },
       "corners": {
         "match_one": [3,5],
         "match_two": [4,2],
         "match_three": [8,2],
         "match_four": [3,13],
-        "match_five": [11,2],
-        "match_six": [0,4],
-        "match_seven": [2,14]
+        "match_five": [2,11],
+        "match_six": [4,0],
+        "match_seven": [14,2]
       },
       "fouls": {
         "match_one": [8,11],
         "match_two": [9,23],
         "match_three": [13,16],
         "match_four": [7,7],
-        "match_five": [7,16],
-        "match_six": [12,7],
-        "match_seven": [16,8]
+        "match_five": [16,7],
+        "match_six": [7,12],
+        "match_seven": [8,16]
       },
       "HT_cards": {
         "match_one": [0,0],
         "match_two": [0,1],
         "match_three": [0,0],
         "match_four": [1,1],
-        "match_five": [0,2],
-        "match_six": [1,0],
-        "match_seven": [1,0]
+        "match_five": [2,0],
+        "match_six": [0,1],
+        "match_seven": [0,1]
         },
         "FT_cards": {
           "match_one": [0,1],
           "match_two": [1,3],
           "match_three": [2,2],
           "match_four": [1,2],
-          "match_five": [0,3],
-          "match_six": [3,1],
-          "match_seven": [3,2]
+          "match_five": [3,0],
+          "match_six": [1,3],
+          "match_seven": [2,3]
           }
       }
     },
@@ -2054,16 +2054,16 @@
       "name":"West Ham",
       "coach": "Moyes David",
       "team_logo": "https://drive.google.com/file/d/1M9dilm69WJ0USAg8BDD5KxhwLixzs-UU/preview",
-      "playing_style": "attacking with width and a variety of rotations and movements",
-      "pressing_style": "all round intense pressing",
-      "attacking_style": "wing play and fluid movement",
-      "defensive_style": "loose",
+      "playing_style": "Attacking with width and a variety of rotations and movements",
+      "pressing_style": "All round intense pressing",
+      "attacking_style": "Wing play and fluid movement",
+      "defensive_style": "Loose",
       "aggressive_players": ["Lucas Paqueta","Tomas Soucek","Mohammed Kudus"],
       "provocative_players": ["Mohammed Kudus","Lucas Paqueta","Jarrod Bowen"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Freiburg","Everton","Nottingham","Man Utd","Aston Villa","Freiburg","Burnley"],
+        "teams": ["Freiburg (home)","Everton (home)","Nottingham (home)","Man Utd (home)","Aston Villa (away)","Freiburg (away)","Burnley (away)"],
        
       "goals": {
         "match_one": [1,0],
@@ -2071,7 +2071,7 @@
         "match_three": [2,0],
         "match_four": [3,0],
         "match_five": [1,1],
-        "match_six": [5,0],
+        "match_six": [0,5],
         "match_seven": [2,2]
       },
       "x_goals": {
@@ -2079,18 +2079,18 @@
         "match_two": [2.47,1.21],
         "match_three": [2.79,0.60],
         "match_four": [0.81,1.74],
-        "match_five": [1.77,0.54],
-        "match_six": [2.52,0.48],
-        "match_seven": [1.75,0.58]
+        "match_five": [0.54,1.77],
+        "match_six": [0.48,2.52],
+        "match_seven": [0.58,1.75]
       },
       "corners": {
         "match_one": [4,4],
         "match_two": [4,5],
         "match_three": [5,2],
         "match_four": [5,8],
-        "match_five": [7,10],
-        "match_six": [6,1],
-        "match_seven": [4,3]
+        "match_five": [10,70],
+        "match_six": [1,6],
+        "match_seven": [3,4]
       },
       
       "fouls": {
@@ -2098,9 +2098,9 @@
         "match_two": [9,6],
         "match_three": [13,15],
         "match_four": [10,5],
-        "match_five": [13,12],
-        "match_six": [13,6],
-        "match_seven": [11,18]
+        "match_five": [12,13],
+        "match_six": [6,13],
+        "match_seven": [18,11]
       },
       "HT_cards": {
         "match_one": [1,0],
@@ -2109,7 +2109,7 @@
         "match_four": [0,1],
         "match_five": [0,0],
         "match_six": [0,0],
-        "match_seven": [1,0]
+        "match_seven": [0,1]
         },
         "FT_cards": {
           "match_one": [2,1],
@@ -2117,8 +2117,8 @@
           "match_three": [4,6],
           "match_four": [0,1],
           "match_five": [3,3],
-          "match_six": [2,0],
-          "match_seven": [2,4]
+          "match_six": [0,2],
+          "match_seven": [4,2]
           }
       }
     },
