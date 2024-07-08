@@ -65,7 +65,7 @@
     "home_team" : {
       "name": "Man City",
       "coach": "Guardiola Pep.",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/man_city.png",
       "playing_style": "Ball Possession",
       "pressing_style": "High-pressing",
       "attacking_style": "Fast transition and strategic use of wide areas",
@@ -136,7 +136,7 @@
     "away_team": {
       "name": "Arsenal",
       "coach": "Arteta Mikel",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/arsenal.png",
       "playing_style": "Quick attack",
       "pressing_style": "High press",
       "attacking_style": "Vertical positional approach that prioritise quick, incisive attacks",
@@ -278,7 +278,7 @@
     "home_team" : {
       "name": "Liverpool",
       "coach": "Klopp Joggen",
-      "team_logo": "https://drive.google.com/file/d/1lPOn1LgsfGzTuKLTR_rz2WpEmsr73pGk/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/liverpool.png",
       "playing_style": "Fast-paced, attacking football",
       "pressing_style": "Gegenpressing",
       "attacking_style": "Dynamic attacking",
@@ -288,7 +288,7 @@
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["Sparta Prague (away)","Man City (away)","Southampton (away)","Luton (away)","Manchester Utd (home)","Sparta Prague (home)","Nottingham (home)"],
+        "teams": ["Sparta Prague (away)","Man City (away)","Southampton (away)","Luton (away)","Manc Utd (home)","Sparta Prague (home)","Nottingham (home)"],
         
       "goals": {
         "match_one": [6,1],
@@ -349,7 +349,7 @@
     "away_team": {
       "name": "Brighton",
       "coach": "De Zerbi R",
-      "team_logo": "https://drive.google.com/file/d/1SrjUQGWIV3ojMrwiUrXVq7VP7YUEhUuY/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/brighton.png",
       "playing_style": "Possession",
       "pressing_style": "High and narrow",
       "attacking_style": "Wing play",
@@ -491,7 +491,7 @@
     "home_team" : {
       "name":"Brentford",
       "coach": "Frank Thomas.",
-      "team_logo": "https://drive.google.com/file/d/1BhWdNNVPUEEp7_oufGJG_zpKCHUQItHq/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/brentford.png",
       "playing_style": "Intense vertical build-play",
       "pressing_style": "Man-to-man intense",
       "attacking_style": "High press and quick switch",
@@ -562,7 +562,7 @@
     "away_team": {
       "name":"Man Utd",
       "coach": "Ten Hag",
-      "team_logo": "https://drive.google.com/file/d/1wb3yw6hVdrQ35EnYdL897kkCyykjqQKb/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/man_utd.png",
       "playing_style": "Midblock with long direct forward passes",
       "pressing_style": "Midblock",
       "attacking_style": "Counter attacking",
@@ -704,7 +704,7 @@
     "home_team" : {
       "name":"Aston Villa",
       "coach": "Emery Unai",
-      "team_logo": "https://drive.google.com/file/d/1v9dX-z_OJtKjBAxCNGn5VmZPTsXqfrSD/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/aston_villa.png",
       "playing_style": "Possession",
       "pressing_style": "High press",
       "attacking_style": "Central fluid attack",
@@ -775,7 +775,7 @@
     "away_team": {
       "name":"Wolves",
       "coach": "O'Neil Gary",
-      "team_logo": "https://drive.google.com/file/d/1b35uJO4v8x1Gz5yd1_ZQmMjL3U2UPgFT/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/wolves.png",
       "playing_style": "Fast-paced, direct Counter attack",
       "pressing_style": "Low block",
       "attacking_style": "Counter attack",
@@ -917,7 +917,7 @@
     "home_team" : {
       "name":"Bournemouth",
       "coach": "Iraola Andoni",
-      "team_logo": "https://drive.google.com/file/d/18IHYTGW_UPm-Lm-8ABaqeDTa7r54U2f6/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/bournemouth.png",
       "playing_style": "Compact, Counter attacking",
       "pressing_style": "Counter-pressing",
       "attacking_style": "Counter",
@@ -988,7 +988,7 @@
     "away_team": {
       "name":"Everton",
       "coach": "Dyche Sean",
-      "team_logo": "https://drive.google.com/file/d/1NQD8iRIjVZGUgM7PayJBXw9MXyaS8LAk/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/everton.png",
       "playing_style": "vertical, direct football",
       "pressing_style": "High press from attacking players only",
       "attacking_style": "Vertical Counter attacks",
@@ -1130,7 +1130,7 @@
     "home_team" : {
       "name":"Chelsea",
       "coach": "Pochettino M.",
-      "team_logo": "https://drive.google.com/file/d/1DyU0XMaGBHr3-JYlRY8WdTCk3ILxA_Wi/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/chelsea.png",
       "playing_style": "narrow attacking lines, dynamic full-backs, and fast one-touch football",
       "pressing_style": "High-pressing",
       "attacking_style": "Narrow attacking with one fullback Higher up",
@@ -1201,7 +1201,7 @@
     "away_team": {
       "name":"Burnley",
       "coach": "Kompany Vincent",
-      "team_logo": "https://drive.google.com/file/d/1RiTzXrSVpzK9ZwRLMWpHM0y4MJTYCDfC/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/burnley.png",
       "playing_style": "Possession",
       "pressing_style": "High press",
       "attacking_style": "attack with triangles and diamonds",
@@ -1343,7 +1343,7 @@
     "home_team" : {
       "name":"Nottingham",
       "coach": "Espirito Santo",
-      "team_logo": "https://drive.google.com/file/d/1XDIbCWpgaerbt7zGyXtwDNF_498oVSBZ/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/nottingham.png",
       "playing_style": "Possession",
       "pressing_style": "low block",
       "attacking_style": "Counter-attacking",
@@ -1414,7 +1414,7 @@
     "away_team": {
       "name":"Crystal Palace",
       "coach": "Glasner Oliver",
-      "team_logo": "https://drive.google.com/file/d/1c3Jj6dndt2A-e0KFvVwuGkKVQ72OusPh/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/crystal_palace.png",
       "playing_style": "well-structured defending, fluid midfield transitions, and dynamic attacking plays",
       "pressing_style": "Midblock pressing",
       "attacking_style": "Dynamic wing play",
@@ -1556,7 +1556,7 @@
     "home_team" : {
       "name":"Sheffield Utd",
       "coach": "Wilder Chris",
-      "team_logo": "https://drive.google.com/file/d/1jqDPk7NjoaMGNs9dr3KKUVXSQdqh7oB_/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/sheffield_utd.png",
       "playing_style": "Long, direct football",
       "pressing_style": "Low block",
       "attacking_style": "Counter attack through the wing",
@@ -1627,7 +1627,7 @@
     "away_team": {
       "name":"Fulham",
       "coach": "Silva Marco",
-      "team_logo": "https://drive.google.com/file/d/1GOunTMv7-uIpJ9teXrCHV0DYb1QGbC3m/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/fulham.png",
       "playing_style": "Positional style, with dynamic attacking plays",
       "pressing_style": "Counterpressing",
       "attacking_style": "Central fluid attack",
@@ -1769,7 +1769,7 @@
     "home_team" : {
       "name":"Tottenham",
       "coach": "Postecoglou A.",
-      "team_logo": "https://drive.google.com/file/d/1zJJ0Qnpoo_3fk4htOguOM2OJpaK-tG_U/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/tottenham.png",
       "playing_style": "High-octane and aggressive",
       "pressing_style": "Pressing high up the pitch",
       "attacking_style": "Quick turnover and overload",
@@ -1840,7 +1840,7 @@
     "away_team": {
       "name":"Luton",
       "coach": "Edwards Rob",
-      "team_logo": "https://drive.google.com/file/d/1zWsC9tZANY4yS5rxVXgB2qKKTjj5njfH/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/luton.png",
       "playing_style": "Long, direct football",
       "pressing_style": "Low block",
       "attacking_style": "Long Counter",
@@ -1982,7 +1982,7 @@
     "home_team" : {
       "name":"Newcastle",
       "coach": "Howe Eddie",
-      "team_logo": "https://drive.google.com/file/d/146iKxktFVdN6-Yp6xO9UGbN81HtecAEk/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/newcastle.png",
       "playing_style": "Possession and patient play from the back",
       "pressing_style": "High press",
       "attacking_style": "Wing play and fluid movement",
@@ -2053,7 +2053,7 @@
     "away_team": {
       "name":"West Ham",
       "coach": "Moyes David",
-      "team_logo": "https://drive.google.com/file/d/1M9dilm69WJ0USAg8BDD5KxhwLixzs-UU/preview",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/west_ham.png",
       "playing_style": "Attacking with width and a variety of rotations and movements",
       "pressing_style": "All round intense pressing",
       "attacking_style": "Wing play and fluid movement",
