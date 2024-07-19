@@ -1,0 +1,54 @@
+header  {
+    font-size: medium;
+    font-family: 'Serif MT';
+    border: none;
+    background-color: #69b86c;
+    color: white;
+    padding: 10px;
+    margin: 10px 5px;
+    border-radius: 70px;
+    border: none;
+    text-align: center;
+  }
+
+  header h2 {
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+  }
+
+  body {
+    background-image: url(./football-488714_1920.jpg);
+    
+  }
+
+  main {
+    background-color: rgba(245, 245, 220, 0.8);
+    color: black;
+    margin: 5% 7%;
+    padding: 3% 7%;
+    text-align: center;
+  }
+
+  main img {
+    width: 150px;
+    margin: auto;
+  }
+
+  .socials img {
+    width: 30px;
+    padding: 5px;
+    margin: auto;
+  }
+
+  main .pitch {
+    font: bold;
+    font-size: larger;
+}
+
+.red_lettered {
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+
