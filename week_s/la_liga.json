@@ -1,12 +1,12 @@
 [
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
-    "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "fixture": "Man City vs Arsenal",
+    "stadium": "Etihad Stadium",
+    "Weather": "windy and cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Crucial",
     "referee": {
-      "name":"",
+      "name":"Anthony Taylor",
       "fouls_per_tackle": 0.60,
       "yellow_per_game": 4.81
       
@@ -14,194 +14,192 @@
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name": "Man City",
+      "coach": "Guardiola Pep.",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/man_city.png",
+      "playing_style": "Ball Possession",
+      "pressing_style": "High-pressing",
+      "attacking_style": "Fast transition and strategic use of wide areas",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Rodri"],
+      "provocative_players": ["Phil Foden", "Jack Grealish"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
       "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
+        "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+        "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+        "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+        "match_four": ["home_team.team_logo",1,0,"Brentford"],
+        "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+        "match_six": ["Luton",6,2,"home_team.team_logo"],
+        "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
       },
       "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
+        "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+        "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+        "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+        "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+        "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+        "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+        "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
       },
       "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
+        "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+        "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+        "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+        "match_four": ["home_team.team_logo",10,1,"Brentford"],
+        "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+        "match_six": ["Luton",2,2,"home_team.team_logo"],
+        "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
       },
       "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
+        "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+        "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+        "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+        "match_four": ["home_team.team_logo",12,6,"Brentford"],
+        "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+        "match_six": ["Luton",4,7,"home_team.team_logo"],
+        "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
       },
       "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+        "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+        "match_four": ["home_team.team_logo",1,1,"Brentford"],
+        "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+        "match_six": ["Luton",0,0,"home_team.team_logo"],
+        "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
         },
         "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
+          "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",2,4,"Brentford"],
+          "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
           }
       }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name": "Arsenal",
+      "coach": "Arteta Mikel",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/arsenal.png",
+      "playing_style": "Quick attack",
+      "pressing_style": "High press",
+      "attacking_style": "Vertical positional approach that prioritise quick, incisive attacks",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Kai Havertz","Bukayo Saka"],
+      "provocative_players": ["Bukayo Saka","Kai Havertz"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -225,208 +223,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Liverpool vs Brighton",
+    "stadium": "Anfield",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Important",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"David Coote",
+      "fouls_per_tackle": 0.69,
+      "yellow_per_game": 5.19
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name": "Liverpool",
+      "coach": "Klopp Joggen",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/liverpool.png",
+      "playing_style": "Fast-paced, attacking football",
+      "pressing_style": "Gegenpressing",
+      "attacking_style": "Dynamic attacking",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Wataru Endo","Alexis Mac Allister","Luis Diaz"],
+      "provocative_players": ["Alexis Mac Allister", "Luis Diaz"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name": "Brighton",
+      "coach": "De Zerbi R",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/brighton.png",
+      "playing_style": "Possession",
+      "pressing_style": "High and narrow",
+      "attacking_style": "Wing play",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Carlos Balepa ","Noom Quomah"],
+      "provocative_players": ["Joao Pedro","Joel Veltman","Facundo Buonanotte"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -450,208 +446,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Brentford vs Man Utd",
+    "stadium": "Brentford Community Stadium",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"Hooper Simon",
+      "fouls_per_tackle": 0.65,
+      "yellow_per_game": 3.52
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Brentford",
+      "coach": "Frank Thomas.",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/brentford.png",
+      "playing_style": "Intense vertical build-play",
+      "pressing_style": "Man-to-man intense",
+      "attacking_style": "High press and quick switch",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
+      "provocative_players": ["Yoane Wissa", "Bryan Mbeumo"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name":"Man Utd",
+      "coach": "Ten Hag",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/man_utd.png",
+      "playing_style": "Midblock with long direct forward passes",
+      "pressing_style": "Midblock",
+      "attacking_style": "Counter attacking",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Diogo Dalot","Bruno Fernandes"],
+      "provocative_players": ["Alejandro Garnacho",""],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -675,208 +669,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Aston Villa vs Wolves",
+    "stadium": "Villa Park",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"Tierney Paul",
+      "fouls_per_tackle": 0.64,
+      "yellow_per_game": 3.52
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Aston Villa",
+      "coach": "Emery Unai",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/aston_villa.png",
+      "playing_style": "Possession",
+      "pressing_style": "High press",
+      "attacking_style": "Central fluid attack",
+      "defensive_style": "Compact",
+      "aggressive_players": ["John McGinn","Douglas Luiz"],
+      "provocative_players": ["John McGinn", "Ezri Konsa", "Ollie Watkins", "Douglas Luiz"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name":"Wolves",
+      "coach": "O'Neil Gary",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/wolves.png",
+      "playing_style": "Fast-paced, direct Counter attack",
+      "pressing_style": "Low block",
+      "attacking_style": "Counter attack",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Mario Lemina","Nelson Semedo","Joao Gomes"],
+      "provocative_players": ["Rayan Ait-Nouri","Matheus Cunha"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -900,432 +892,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Bournemouth vs Everton",
+    "stadium": "Vitality Stadium",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"Barrott Samuel",
+      "fouls_per_tackle": 0.63,
+      "yellow_per_game": 3.13
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Bournemouth",
+      "coach": "Iraola Andoni",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/bournemouth.png",
+      "playing_style": "Compact, Counter attacking",
+      "pressing_style": "Counter-pressing",
+      "attacking_style": "Counter",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Justin Kluivert", "Ryan Christie", "Antoine Semenyo", "Dominic Solanke", "Marcos Senesi", "Lewis Cook"],
+      "provocative_players": ["Dominic Solanke"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name":"Everton",
+      "coach": "Dyche Sean",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/everton.png",
+      "playing_style": "vertical, direct football",
+      "pressing_style": "High press from attacking players only",
+      "attacking_style": "Vertical Counter attacks",
+      "defensive_style": "Low block Compact",
+      "aggressive_players": ["Abdoulaye Doucoure","James Tarkowski ","James Garner"],
+      "provocative_players": ["Amadou Onana", "James Garner"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
-      "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
-      },
-      "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
-      },
-      "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
-      },
-      
-      "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
-      },
-      "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
-        },
-        "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
-          }
-      }
-    },
-    "summary":{
-      "cards":{
-        "discuss":" ",
-        "ht": " ",
-        "ft": " "
-      },
-      "corners":{
-        "discuss":" ",
-        "ht": " ",
-        "ft": " "
-      },
-      "goals":{
-        "discuss":" ",
-        "ht": " ",
-        "ft": " "
-      }
-    }
-  },
-  {
-    "fixture": "Home vs Away",
-    "stadium": "",
-    "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
-    "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
-      
-    },
-
-    "head_to_head": {
-      "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
-      },
-      "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
-        "match_four": [ ],
-        "match_five": [2.22,0.52],
-        "match_six": [ ]
-      },
-      "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
-      },
-      "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
-      },
-      "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
-        },
-        "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
-          }
-      },
-    "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
-      "unavailable_attacking_players": [],
-      
-      "recent_matches": {
-        "teams": ["","","","","","",""],
         
       "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
-        },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
-    },
-    "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
-      "unavailable_attacking_players": [],
-      
-      "recent_matches": {
-        "teams": ["","","","","","",""],
-       
-      "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
-      },
-      "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
-      },
-      "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -1349,208 +1115,428 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Chelsea vs Burnley",
+    "stadium": "Stamford Bridge",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"England Darren",
+      "fouls_per_tackle": 0.65,
+      "yellow_per_game": 4.83
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Chelsea",
+      "coach": "Pochettino M.",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/chelsea.png",
+      "playing_style": "narrow attacking lines, dynamic full-backs, and fast one-touch football",
+      "pressing_style": "High-pressing",
+      "attacking_style": "Narrow attacking with one fullback Higher up",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Conor Gallagher", "Moises Caicedo"],
+      "provocative_players": ["Conor Gallagher", "Moises Caicedo", "Raheem Sterling", "Nicolas Jackson"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
+        
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
+        },
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
+    },
+    "away_team": {
+      "name":"Burnley",
+      "coach": "Kompany Vincent",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/burnley.png",
+      "playing_style": "Possession",
+      "pressing_style": "High press",
+      "attacking_style": "attack with triangles and diamonds",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Sander Berge","Josh Brownhill"],
+      "provocative_players": ["Josh Cullen"],
+      "unavailable_attacking_players": [],
+      
+      "recent_matches": {
         
       "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
+      
       "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
-    "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+  },
+  {
+    "fixture": "Nottingham vs Crystal Palace",
+    "stadium": "City Ground",
+    "Weather": " ",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
+    "referee": {
+      "name":"Kavanagh Chris",
+      "fouls_per_tackle": 0.53,
+      "yellow_per_game": 3.90
+      
+    },
+
+    "head_to_head": {
+      "goals": {
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
+      },
+      "x_goals": {
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
+        "match_four": [ ],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
+        "match_six": [ ]
+      },
+      "corners": {
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
+      },
+      "fouls": {
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
+      },
+      "HT_cards": {
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
+        },
+        "FT_cards": {
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
+          }
+      },
+    "home_team" : {
+      "name":"Nottingham",
+      "coach": "Espirito Santo",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/nottingham.png",
+      "playing_style": "Possession",
+      "pressing_style": "low block",
+      "attacking_style": "Counter-attacking",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Murillo","Ryan Yates"],
+      "provocative_players": ["Morgan Gibbs-White", "Ryan Yates"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
+        },
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
+    },
+    "away_team": {
+      "name":"Crystal Palace",
+      "coach": "Glasner Oliver",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/crystal_palace.png",
+      "playing_style": "well-structured defending, fluid midfield transitions, and dynamic attacking plays",
+      "pressing_style": "Midblock pressing",
+      "attacking_style": "Dynamic wing play",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Jordan Ayew","Jefferson Lerma","Joachim","Andersen","Will Hughes"],
+      "provocative_players": ["Jordan Ayew","Eberechi Eze","Michael Olise"],
+      "unavailable_attacking_players": [],
+      
+      "recent_matches": {
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -1574,208 +1560,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Sheffield Utd vs Fulham",
+    "stadium": "Bramall Lane",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"Robinson Tim",
+      "fouls_per_tackle": 0.70,
+      "yellow_per_game": 4.24
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Sheffield Utd",
+      "coach": "Wilder Chris",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/sheffield_utd.png",
+      "playing_style": "Long, direct football",
+      "pressing_style": "Low block",
+      "attacking_style": "Counter attack through the wing",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Gustavo Hamer", "Vinicius Souza", "Jayden Bogle"],
+      "provocative_players": [" "],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name":"Fulham",
+      "coach": "Silva Marco",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/fulham.png",
+      "playing_style": "Positional style, with dynamic attacking plays",
+      "pressing_style": "Counterpressing",
+      "attacking_style": "Central fluid attack",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Joao Palhinha"],
+      "provocative_players": ["Joao Palhinha","Harry Wilson"],
       "unavailable_attacking_players": [],
       
-      "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+     "recent_matches": {
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -1799,208 +1783,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Tottenham vs Luton",
+    "stadium": "Tottenham Hotspur Stadium",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"Gillett Jarred",
+      "fouls_per_tackle": 0.56,
+      "yellow_per_game": 4.24
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Tottenham",
+      "coach": "Postecoglou A.",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/tottenham.png",
+      "playing_style": "High-octane and aggressive",
+      "pressing_style": "Pressing high up the pitch",
+      "attacking_style": "Quick turnover and overload",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Destiny Udogie", "Dejan Kulusevski"],
+      "provocative_players": ["James Maddison", "Heung-min Son"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name":"Luton",
+      "coach": "Edwards Rob",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/luton.png",
+      "playing_style": "Long, direct football",
+      "pressing_style": "Low block",
+      "attacking_style": "Long Counter",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Carlton Morris"],
+      "provocative_players": ["Tahith chong","Chiedozie Ogbene", "Carlton Morris "],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -2024,208 +2006,206 @@
     
   },
   {
-    "fixture": "Home vs Away",
-    "stadium": "",
+    "fixture": "Newcastle vs West Ham",
+    "stadium": "St. James' Park",
     "Weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
     "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
+      "name":"Jones Robert",
+      "fouls_per_tackle": 0.69,
+      "yellow_per_game": 4.32
       
     },
 
     "head_to_head": {
       "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1],
-        "match_six": [1,0]
+        "match_one": ["home_team.team_logo",1,0,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,1,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",1,4,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",0,1,"home_team.team_logo"]
       },
       "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
+        "match_one": ["home_team.team_logo",0.46,0.47,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1.59,1.75,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0.84,1.95,"away_team.team_logo"],
         "match_four": [ ],
-        "match_five": [2.22,0.52],
+        "match_five": ["away_team.team_logo",0.52,2.22,"home_team.team_logo"],
         "match_six": [ ]
       },
       "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3],
-        "match_six": [0,3]
+        "match_one": ["home_team.team_logo",5,4,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",1,2,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",5,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",6,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",3,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",3,0,"home_team.team_logo"]
       },
       "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13],
-        "match_six": [9,14]
+        "match_one": ["home_team.team_logo",8,7,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",11,15,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",13,5,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",11,5,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",13,13,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",14,9,"home_team.team_logo"]
       },
       "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0],
-        "match_six": [0,1]
+        "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+        "match_two": ["home_team.team_logo",0,3,"away_team.team_logo"],
+        "match_three": ["home_team.team_logo",0,0,"away_team.team_logo"],
+        "match_four": ["away_team.team_logo",1,3,"home_team.team_logo"],
+        "match_five": ["away_team.team_logo",0,1,"home_team.team_logo"],
+        "match_six": ["away_team.team_logo",1,0,"home_team.team_logo"]
         },
         "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1],
-          "match_six": [1,2]
+          "match_one": ["home_team.team_logo",2,3,"away_team.team_logo"],
+          "match_two": ["home_team.team_logo",2,4,"away_team.team_logo"],
+          "match_three": ["home_team.team_logo",5,2,"away_team.team_logo"],
+          "match_four": ["away_team.team_logo",1,4,"home_team.team_logo"],
+          "match_five": ["away_team.team_logo",1,3,"home_team.team_logo"],
+          "match_six": ["away_team.team_logo",2,1,"home_team.team_logo"]
           }
       },
     "home_team" : {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1ef4SjQpL00kgUDDzVVM6_0D6mV7z6-Qy/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": [""],
-      "provocative_players": [" ", " "],
+      "name":"Newcastle",
+      "coach": "Howe Eddie",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/newcastle.png",
+      "playing_style": "Possession and patient play from the back",
+      "pressing_style": "High press",
+      "attacking_style": "Wing play and fluid movement",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Bruno Guimaraes", "Fabian Schar", "Anthony Gordon"],
+      "provocative_players": ["Bruno Guimaraes", "Anthony Gordon"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
         
-      "goals": {
-        "match_one": [2,0],
-        "match_two": [3,1],
-        "match_three": [3,1],
-        "match_four": [1,0],
-        "match_five": [1,1],
-        "match_six": [2,6],
-        "match_seven": [0,1]
-      },
-      "x_goals": {
-        "match_one": [1.37,0.26],
-        "match_two": [0.67,1.15],
-        "match_three": [3.15,0.19],
-        "match_four": [2.46, 0.34],
-        "match_five": [2.82,1.50],
-        "match_six": [2.58,3.33],
-        "match_seven": [0.79,1.53]
-      },
-      "corners": {
-        "match_one": [11,2],
-        "match_two": [4,4],
-        "match_three": [15,2],
-        "match_four": [10,1],
-        "match_five": [7,4],
-        "match_six": [2,2],
-        "match_seven": [3,8]
-      },
-      "fouls": {
-        "match_one": [7,16],
-        "match_two": [5,9],
-        "match_three": [5,10],
-        "match_four": [12,6],
-        "match_five": [6,10],
-        "match_six": [7,4],
-        "match_seven": [14,6]
-      },
-      "HT_cards": {
-        "match_one": [0,2],
-        "match_two": [0,0],
-        "match_three": [0,0],
-        "match_four": [1,1],
-        "match_five": [0,1],
-        "match_six": [0,0],
-        "match_seven": [1,0]
+        "goals": {
+          "match_one": ["Newcastle",2,0,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",3,1,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3,1,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,0,"Brentford"],
+          "match_five": ["Liverpool",1,1,"home_team.team_logo"],
+          "match_six": ["Luton",6,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1,0,"Bournemouth"]
         },
-        "FT_cards": {
-          "match_one": [0,3],
-          "match_two": [0,2],
-          "match_three": [0,1],
-          "match_four": [2,4],
-          "match_five": [0,3],
-          "match_six": [0,0],
-          "match_seven": [2,2]
-          }
-      }
+        "x_goals": {
+          "match_one": ["Newcastle",1.37,0.26,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0.67,1.15,"Copenhagen"],
+          "match_three": ["home_team.team_logo",3.15,0.19,"Man Utd"],
+          "match_four": ["home_team.team_logo",2.46, 0.34,"Brentford"],
+          "match_five": ["Liverpool",1.50,2.82,"home_team.team_logo"],
+          "match_six": ["Luton",3.33,2.58,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",1.53,0.79,"Bournemouth"]
+        },
+        "corners": {
+          "match_one": ["Newcastle",11,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",4,4,"Copenhagen"],
+          "match_three": ["home_team.team_logo",15,2,"Man Utd"],
+          "match_four": ["home_team.team_logo",10,1,"Brentford"],
+          "match_five": ["Liverpool",4,7,"home_team.team_logo"],
+          "match_six": ["Luton",2,2,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",8,3,"Bournemouth"]
+        },
+        "fouls": {
+          "match_one": ["Newcastle",7,16,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",5,9,"Copenhagen"],
+          "match_three": ["home_team.team_logo",5,10,"Man Utd"],
+          "match_four": ["home_team.team_logo",12,6,"Brentford"],
+          "match_five": ["Liverpool",10,6,"home_team.team_logo"],
+          "match_six": ["Luton",4,7,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",6,14,"Bournemouth"]
+        },
+        "HT_cards": {
+          "match_one": ["Newcastle",0,2,"home_team.team_logo"],
+          "match_two": ["home_team.team_logo",0,0,"Copenhagen"],
+          "match_three": ["home_team.team_logo",0,0,"Man Utd"],
+          "match_four": ["home_team.team_logo",1,1,"Brentford"],
+          "match_five": ["Liverpool",1,0,"home_team.team_logo"],
+          "match_six": ["Luton",0,0,"home_team.team_logo"],
+          "match_seven": ["home_team.team_logo",0,1,"Bournemouth"]
+          },
+          "FT_cards": {
+            "match_one": ["Newcastle",0,3,"home_team.team_logo"],
+            "match_two": ["home_team.team_logo",0,2,"Copenhagen"],
+            "match_three": ["home_team.team_logo",0,1,"Man Utd"],
+            "match_four": ["home_team.team_logo",2,4,"Brentford"],
+            "match_five": ["Liverpool",3,0,"home_team.team_logo"],
+            "match_six": ["Luton",0,0,"home_team.team_logo"],
+            "match_seven": ["home_team.team_logo",2,2,"Bournemouth"]
+            }
+        }
     },
     "away_team": {
-      "name":"",
-      "coach": "",
-      "team_logo": "https://drive.google.com/file/d/1jsUclDizZXGIzkDyXvrJR46C-7RQLBW_/preview",
-      "playing_style": "",
-      "pressing_style": "",
-      "attacking_style": "",
-      "defensive_style": "",
-      "aggressive_players": ["",""],
-      "provocative_players": ["",""],
+      "name":"West Ham",
+      "coach": "Moyes David",
+      "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/west_ham.png",
+      "playing_style": "Attacking with width and a variety of rotations and movements",
+      "pressing_style": "All round intense pressing",
+      "attacking_style": "Wing play and fluid movement",
+      "defensive_style": "Loose",
+      "aggressive_players": ["Lucas Paqueta","Tomas Soucek","Mohammed Kudus"],
+      "provocative_players": ["Mohammed Kudus","Lucas Paqueta","Jarrod Bowen"],
       "unavailable_attacking_players": [],
       
       "recent_matches": {
-        "teams": ["","","","","","",""],
-       
+        
       "goals": {
-        "match_one": [1,0],
-        "match_two": [2,1],
-        "match_three": [4,1],
-        "match_four": [3,1],
-        "match_five": [0,6],
-        "match_six": [1,0],
-        "match_seven": [0,5]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",4,1,"Newcastle"],
+        "match_four": ["away_team.team_logo",3,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",6,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",5,0,"Burnley"]
       },
       "x_goals": {
-        "match_one": [1.08,0.59],
-        "match_two": [1.26,0.94],
-        "match_three": [2.40,0.14],
-        "match_four": [3.68,0.46],
-        "match_five": [0.26,1.95],
-        "match_six": [1.23,0.53],
-        "match_seven": [0.28,2.60]
+        "match_one": ["away_team.team_logo",1.08,0.59,"Fc Porto"],
+        "match_two": ["Brentford",1.26,0.94,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",2.40,0.14,"Newcastle"],
+        "match_four": ["away_team.team_logo",3.68,0.46,"Liverpool"],
+        "match_five": ["Sheffield Utd",1.95,0.26,"away_team.team_logo"],
+        "match_six": ["Fc Porto",0.53,1.23,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",2.60,0.28,"Burnley"]
       },
       "corners": {
-        "match_one": [10,4],
-        "match_two": [1,1],
-        "match_three": [9,0],
-        "match_four": [2,4],
-        "match_five": [0,7],
-        "match_six": [1,10],
-        "match_seven": [4,6]
+        "match_one": ["away_team.team_logo",10,4,"Fc Porto"],
+        "match_two": ["Brentford",1,1,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",9,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",2,4,"Liverpool"],
+        "match_five": ["Sheffield Utd",7,0,"away_team.team_logo"],
+        "match_six": ["Fc Porto",10,1,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",6,4,"Burnley"]
       },
       
       "fouls": {
-        "match_one": [18,20],
-        "match_two": [9,10],
-        "match_three": [15,6],
-        "match_four": [11,11],
-        "match_five": [11,4],
-        "match_six": [14,22],
-        "match_seven": [11,8]
+        "match_one": ["away_team.team_logo",18,20,"Fc Porto"],
+        "match_two": ["Brentford",9,10,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",15,6,"Newcastle"],
+        "match_four": ["away_team.team_logo",11,11,"Liverpool"],
+        "match_five": ["Sheffield Utd",4,11,"away_team.team_logo"],
+        "match_six": ["Fc Porto",22,14,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",8,11,"Burnley"]
       },
       "HT_cards": {
-        "match_one": [1,0],
-        "match_two": [2,2],
-        "match_three": [1,0],
-        "match_four": [1,1],
-        "match_five": [1,0],
-        "match_six": [0,1],
-        "match_seven": [2,1]
+        "match_one": ["away_team.team_logo",1,0,"Fc Porto"],
+        "match_two": ["Brentford",2,2,"away_team.team_logo"],
+        "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+        "match_four": ["away_team.team_logo",1,1,"Liverpool"],
+        "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+        "match_six": ["Fc Porto",1,0,"away_team.team_logo"],
+        "match_seven": ["away_team.team_logo",1,2,"Burnley"]
         },
         "FT_cards": {
-          "match_one": [1,2],
-          "match_two": [2,4],
-          "match_three": [1,0],
-          "match_four": [6,4],
-          "match_five": [1,0],
-          "match_six": [2,3],
-          "match_seven": [2,1]
+          "match_one": ["away_team.team_logo",1,2,"Fc Porto"],
+          "match_two": ["Brentford",2,4,"away_team.team_logo"],
+          "match_three": ["away_team.team_logo",1,0,"Newcastle"],
+          "match_four": ["away_team.team_logo",6,4,"Liverpool"],
+          "match_five": ["Sheffield Utd",0,1,"away_team.team_logo"],
+          "match_six": ["Fc Porto",3,2,"away_team.team_logo"],
+          "match_seven": ["away_team.team_logo",1,2,"Burnley"]
           }
       }
     },
@@ -2246,6 +2226,6 @@
         "ft": " "
       }
     }
+    
   }
-  
 ]
