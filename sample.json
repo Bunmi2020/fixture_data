@@ -1951,15 +1951,6 @@
           "match_six": ["",""],
           "match_seven": ["",""]
         },
-        "teams": {
-          "match_one": ["",""],
-          "match_two": ["",""],
-          "match_three": ["",""],
-          "match_four": ["",""],
-          "match_five": ["",""],
-          "match_six": ["",""],
-          "match_seven": ["",""]
-        },
        
       "goals": {
         "match_one": [1,0],
