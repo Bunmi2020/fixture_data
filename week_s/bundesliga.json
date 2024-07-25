@@ -15,12 +15,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Man City","Arsenal"],
+        "match_two": ["Man City","Arsenal"],
+        "match_three": ["Man City","Arsenal"],
+        "match_four": ["Arsenal","Man City"],
+        "match_five": ["Arsenal","Man City"],
+        "match_six": ["Arsenal","Man City"]
       },
 
       "goals": {
@@ -35,9 +35,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -87,13 +87,13 @@
       "recent_matches": {
 
           "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Man City","Fc Porto"],
+          "match_two": ["Brentford","Man City"],
+          "match_three": ["Man City","Newcastle"],
+          "match_four": ["Burnley","Man City"],
+          "match_five": ["Sheffield Utd","Man City"],
+          "match_six": ["Man City","Liverpool"],
+          "match_seven": ["Man City","Man City"]
         },
         
       "goals": {
@@ -167,13 +167,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Arsenal","Fc Porto"],
+          "match_two": ["Brentford","Arsenal"],
+          "match_three": ["Arsenal","Newcastle"],
+          "match_four": ["Burnley","Arsenal"],
+          "match_five": ["Sheffield Utd","Arsenal"],
+          "match_six": ["Arsenal","Liverpool"],
+          "match_seven": ["Arsenal","Man City"]
         },
         
       "goals": {
@@ -268,12 +268,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Liverpool","Brighton"],
+        "match_two": ["Liverpool","Brighton"],
+        "match_three": ["Liverpool","Brighton"],
+        "match_four": ["Liverpool","Brighton"],
+        "match_five": ["Liverpool","Brighton"],
+        "match_six": ["Liverpool","Brighton"]
       },
       
       "goals": {
@@ -288,9 +288,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -340,13 +340,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Liverpool","Fc Porto"],
+          "match_two": ["Brentford","Liverpool"],
+          "match_three": ["Liverpool","Newcastle"],
+          "match_four": ["Burnley","Liverpool"],
+          "match_five": ["Sheffield Utd","Liverpool"],
+          "match_six": ["Liverpool","Liverpool"],
+          "match_seven": ["Liverpool","Man City"]
         },
         
         "goals": {
@@ -420,13 +420,13 @@
       "recent_matches": {
 
           "teams": {
-          "match_one": ["{away_team.team_logo}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.team_logo}"],
-          "match_three": ["{away_team.team_logo}","Newcastle"],
-          "match_four": ["Burnley","{home_team.team_logo}"],
-          "match_five": ["Sheffield Utd","{away_team.team_logo}"],
-          "match_six": ["{away_team.team_logo}","Liverpool"],
-          "match_seven": ["{away_team.team_logo}","Man City"]
+          "match_one": ["Brighton","Fc Porto"],
+          "match_two": ["Brentford","Brighton"],
+          "match_three": ["Brighton","Newcastle"],
+          "match_four": ["Burnley","Brighton"],
+          "match_five": ["Sheffield Utd","Brighton"],
+          "match_six": ["Brighton","Liverpool"],
+          "match_seven": ["Brighton","Man City"]
         },
         
       "goals": {
@@ -506,7 +506,7 @@
     
   },
   {
-    "fixture": "Brentford vs Man Utd",
+    "fixture": "Brentford vs Man United",
     "stadium": "Brentford Community Stadium",
     "Weather": " ",
     "pitch_condition": "Good",
@@ -521,12 +521,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Brentford","Man United"],
+        "match_two": ["Brentford","Man United"],
+        "match_three": ["Brentford","Man United"],
+        "match_four": ["Brentford","Man United"],
+        "match_five": ["Brentford","Man United"],
+        "match_six": ["Brentford","Man United"]
       },
       
       "goals": {
@@ -541,9 +541,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -593,13 +593,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Brentford","Fc Porto"],
+          "match_two": ["Wolves","Brentford"],
+          "match_three": ["Brentford","Newcastle"],
+          "match_four": ["Burnley","Brentford"],
+          "match_five": ["Sheffield Utd","Brentford"],
+          "match_six": ["Brentford","Liverpool"],
+          "match_seven": ["Brentford","Man City"]
         },
         
         "goals": {
@@ -659,7 +659,7 @@
         }
     },
     "away_team": {
-      "name":"Man Utd",
+      "name":"Man United",
       "coach": "Ten Hag",
       "team_logo": "https://bunmi2020.github.io/fixture_data/teams_icon/PL/man_utd.png",
       "playing_style": "Midblock with long direct forward passes",
@@ -673,13 +673,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Man United","Fc Porto"],
+          "match_two": ["Brentford","Man United"],
+          "match_three": ["Man United","Newcastle"],
+          "match_four": ["Burnley","Man United"],
+          "match_five": ["Sheffield Utd","Man United"],
+          "match_six": ["Man United","Liverpool"],
+          "match_seven": ["Man United","Man City"]
         },
         
       "goals": {
@@ -774,12 +774,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Aston Villa","Wolves"],
+        "match_two": ["Aston Villa","Wolves"],
+        "match_three": ["Aston Villa","Wolves"],
+        "match_four": ["Aston Villa","Wolves"],
+        "match_five": ["Aston Villa","Wolves"],
+        "match_six": ["Aston Villa","Wolves"]
       },
       
       "goals": {
@@ -794,9 +794,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -846,13 +846,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Aston Villa","Fc Porto"],
+          "match_two": ["Brentford","Aston Villa"],
+          "match_three": ["Aston Villa","Newcastle"],
+          "match_four": ["Burnley","Aston Villa"],
+          "match_five": ["Sheffield Utd","Aston Villa"],
+          "match_six": ["Aston Villa","Liverpool"],
+          "match_seven": ["Aston Villa","Man City"]
         },
         
         "goals": {
@@ -926,13 +926,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Wolves","Fc Porto"],
+          "match_two": ["Brentford","Wolves"],
+          "match_three": ["Wolves","Newcastle"],
+          "match_four": ["Burnley","Wolves"],
+          "match_five": ["Sheffield Utd","Wolves"],
+          "match_six": ["Wolves","Liverpool"],
+          "match_seven": ["Wolves","Man City"]
         },
         
       "goals": {
@@ -1027,12 +1027,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Everton","Bournemouth"],
+        "match_two": ["Bournemouth","Everton"],
+        "match_three": ["Bournemouth","Bournemouth"],
+        "match_four": ["Everton","Everton"],
+        "match_five": ["Bournemouth","Everton"],
+        "match_six": ["Bournemouth","Everton"]
       },
       
       "goals": {
@@ -1047,9 +1047,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -1099,13 +1099,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Bournemouth","Fc Porto"],
+          "match_two": ["Brentford","Bournemouth"],
+          "match_three": ["Bournemouth","Newcastle"],
+          "match_four": ["Burnley","Bournemouth"],
+          "match_five": ["Sheffield Utd","Bournemouth"],
+          "match_six": ["Bournemouth","Liverpool"],
+          "match_seven": ["Bournemouth","Man City"]
         },
         
         "goals": {
@@ -1179,13 +1179,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Everton","Fc Porto"],
+          "match_two": ["Brentford","Everton"],
+          "match_three": ["Everton","Newcastle"],
+          "match_four": ["Burnley","Everton"],
+          "match_five": ["Sheffield Utd","Everton"],
+          "match_six": ["Everton","Liverpool"],
+          "match_seven": ["Everton","Man City"]
         },
         
       "goals": {
@@ -1280,12 +1280,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Chelsea","Burnley"],
+        "match_two": ["Chelsea","Burnley"],
+        "match_three": ["Burnley","Chelsea"],
+        "match_four": ["Chelsea","Burnley"],
+        "match_five": ["Burnley","Chelsea"],
+        "match_six": ["Burnley","Chelsea"]
       },
       
       "goals": {
@@ -1300,9 +1300,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -1352,13 +1352,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Chelsea","Fc Porto"],
+          "match_two": ["Brentford","Chelsea"],
+          "match_three": ["Chelsea","Newcastle"],
+          "match_four": ["Burnley","Chelsea"],
+          "match_five": ["Sheffield Utd","Chelsea"],
+          "match_six": ["Chelsea","Liverpool"],
+          "match_seven": ["Chelsea","Man City"]
         },
         
         "goals": {
@@ -1432,13 +1432,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Burnley","Fc Porto"],
+          "match_two": ["Brentford","Burnley"],
+          "match_three": ["Burnley","Newcastle"],
+          "match_four": ["Burnley","Burnley"],
+          "match_five": ["Sheffield Utd","Burnley"],
+          "match_six": ["Burnley","Liverpool"],
+          "match_seven": ["Burnley","Man City"]
         },
         
       "goals": {
@@ -1532,12 +1532,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Nottingham","Crystal Palace"],
+        "match_two": ["Crystal Palace","Nottingham"],
+        "match_three": ["Crystal Palace","Nottingham"],
+        "match_four": ["Nottingham","Crystal Palace"],
+        "match_five": ["Nottingham","Crystal Palace"],
+        "match_six": ["Crystal Palace","Nottingham"]
       },
       
       "goals": {
@@ -1552,9 +1552,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -1604,13 +1604,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Nottingham","Fc Porto"],
+          "match_two": ["Brentford","Nottingham"],
+          "match_three": ["Nottingham","Newcastle"],
+          "match_four": ["Burnley","Nottingham"],
+          "match_five": ["Sheffield Utd","Nottingham"],
+          "match_six": ["Nottingham","Liverpool"],
+          "match_seven": ["Nottingham","Man City"]
         },
         
         "goals": {
@@ -1684,13 +1684,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Crystal Palace","Fc Porto"],
+          "match_two": ["Brentford","Crystal Palace"],
+          "match_three": ["Crystal Palace","Newcastle"],
+          "match_four": ["Burnley","Crystal Palace"],
+          "match_five": ["Sheffield Utd","Crystal Palace"],
+          "match_six": ["Crystal Palace","Liverpool"],
+          "match_seven": ["Crystal Palace","Man City"]
         },
         
       "goals": {
@@ -1785,12 +1785,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Sheffield Utd","Fulham"],
+        "match_two": ["Sheffield Utd","Fulham"],
+        "match_three": ["Fulham","Sheffield Utd"],
+        "match_four": ["Sheffield Utd","Fulham"],
+        "match_five": ["Fulham","Sheffield Utd"],
+        "match_six": ["Fulham","Sheffield Utd"]
       },
       
       "goals": {
@@ -1805,9 +1805,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -1857,13 +1857,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Sheffield Utd","Fc Porto"],
+          "match_two": ["Brentford","Sheffield Utd"],
+          "match_three": ["Sheffield Utd","Newcastle"],
+          "match_four": ["Burnley","Sheffield Utd"],
+          "match_five": ["Sheffield Utd","Man Utd"],
+          "match_six": ["Sheffield Utd","Liverpool"],
+          "match_seven": ["Sheffield Utd","Man City"]
         },
         
         "goals": {
@@ -1937,13 +1937,13 @@
      "recent_matches": {
 
          "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Fulham","Fc Porto"],
+          "match_two": ["Brentford","Fulham"],
+          "match_three": ["Fulham","Newcastle"],
+          "match_four": ["Burnley","Fulham"],
+          "match_five": ["Sheffield Utd","Fulham"],
+          "match_six": ["Fulham","Liverpool"],
+          "match_seven": ["Fulham","Man City"]
         },
         
       "goals": {
@@ -2038,12 +2038,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Tottenham","Luton"],
+        "match_two": ["Luton","Tottenham"],
+        "match_three": ["Luton","Tottenham"],
+        "match_four": ["Tottenham","Luton"],
+        "match_five": ["Luton","Tottenham"],
+        "match_six": ["Tottenham","Luton"]
       },
       
       "goals": {
@@ -2058,9 +2058,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -2110,13 +2110,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.name}"],
-          "match_three": ["{home_team.name}","Newcastle"],
-          "match_four": ["Burnley","{home_team.name}"],
-          "match_five": ["Sheffield Utd","{home_team.name}"],
-          "match_six": ["{home_team.name}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Tottenham","Fc Porto"],
+          "match_two": ["Brentford","Tottenham"],
+          "match_three": ["Tottenham","Newcastle"],
+          "match_four": ["Burnley","Tottenham"],
+          "match_five": ["Sheffield Utd","Tottenham"],
+          "match_six": ["Tottenham","Liverpool"],
+          "match_seven": ["Tottenham","Man City"]
         },
         
         "goals": {
@@ -2190,13 +2190,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["Luton","Fc Porto"],
+          "match_two": ["Brentford","Luton"],
+          "match_three": ["Luton","Newcastle"],
+          "match_four": ["Burnley","Luton"],
+          "match_five": ["Sheffield Utd","Luton"],
+          "match_six": ["Luton","Liverpool"],
+          "match_seven": ["Luton","Man City"]
         },
         
       "goals": {
@@ -2291,12 +2291,12 @@
     "head_to_head": {
          
       "teams": {
-        "match_one": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_two": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_three": ["{home_team.team_logo}","{away_team.team_logo}"],
-        "match_four": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_five": ["{away_team.team_logo}","{home_team.team_logo}"],
-        "match_six": ["{away_team.team_logo}","{home_team.team_logo}"]
+        "match_one": ["Newcastle","West Ham"],
+        "match_two": ["West Ham","Newcastle"],
+        "match_three": ["West Ham","Newcastle"],
+        "match_four": ["Newcastle","West Ham"],
+        "match_five": ["Newcastle","West Ham"],
+        "match_six": ["West Ham","Newcastle"]
       },
       
       "goals": {
@@ -2311,9 +2311,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": ["-", "-"],
+        "match_four": [ ],
         "match_five": [0.52,2.22],
-        "match_six": ["-", "-"]
+        "match_six": [ ]
       },
       "corners": {
         "match_one": [5,4],
@@ -2363,13 +2363,13 @@
       "recent_matches": {
 
            "teams": {
-          "match_one": ["{home_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{home_team.team_logo}"],
-          "match_three": ["{home_team.team_logo}","Newcastle"],
-          "match_four": ["Burnley","{home_team.team_logo}"],
-          "match_five": ["Sheffield Utd","{home_team.team_logo}"],
-          "match_six": ["{home_team.team_logo}","Liverpool"],
-          "match_seven": ["{home_team.name}","Man City"]
+          "match_one": ["Newcastle","Fc Porto"],
+          "match_two": ["Brentford","Newcastle"],
+          "match_three": ["Newcastle","Newcastle"],
+          "match_four": ["Burnley","Newcastle"],
+          "match_five": ["Sheffield Utd","Newcastle"],
+          "match_six": ["Newcastle","Liverpool"],
+          "match_seven": ["Newcastle","Man City"]
         },
         
         "goals": {
@@ -2443,13 +2443,13 @@
       "recent_matches": {
 
           "teams": {
-          "match_one": ["{away_team.name}","Fc Porto"],
-          "match_two": ["Brentford","{away_team.name}"],
-          "match_three": ["{away_team.name}","Newcastle"],
-          "match_four": ["Burnley","{away_team.name}"],
-          "match_five": ["Sheffield Utd","{away_team.name}"],
-          "match_six": ["{away_team.name}","Liverpool"],
-          "match_seven": ["{away_team.name}","Man City"]
+          "match_one": ["West Ham","Fc Porto"],
+          "match_two": ["Brentford","West Ham"],
+          "match_three": ["West Ham","Newcastle"],
+          "match_four": ["Burnley","West Ham"],
+          "match_five": ["Sheffield Utd","West Ham"],
+          "match_six": ["West Ham","Liverpool"],
+          "match_seven": ["West Ham","Man City"]
         },
         
       "goals": {
