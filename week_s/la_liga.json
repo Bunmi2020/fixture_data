@@ -35,9 +35,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -288,9 +288,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -541,9 +541,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -794,9 +794,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -1047,9 +1047,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -1300,9 +1300,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -1552,9 +1552,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -1805,9 +1805,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -2058,9 +2058,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
@@ -2311,9 +2311,9 @@
         "match_one": [0.46,0.47],
         "match_two": [1.59,1.75],
         "match_three": [0.84,1.95],
-        "match_four": [ ],
+        "match_four": ["-", "-"],
         "match_five": [0.52,2.22],
-        "match_six": [ ]
+        "match_six": ["-", "-"]
       },
       "corners": {
         "match_one": [5,4],
