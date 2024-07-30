@@ -1,0 +1,80 @@
+{
+    "home_team": {
+    "name": "Real Madrid",
+    "coach": "Carlo Ancelotti",
+    "team_logo": "https://example.com/teams_icon/Laliga/real_madrid.png",
+    "playing_style": "Ball Possession",
+    "pressing_style": "High-pressing",
+    "attacking_style": "Quick passing and strategic use of wide areas",
+    "defensive_style": "Compact",
+    "aggressive_players": ["Casemiro"],
+    "provocative_players": ["Vinicius Jr.","Rodrygo"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+      "match_one": ["Dortmund","Real Madrid"],
+      "match_two": ["Real Madrid","Real Betis"],
+      "match_three": ["Real Madrid","Villarreal"],
+      "match_four": ["Real Madrid","Alaves"],
+      "match_five": ["Granada","Real Madrid"],
+      "match_six": ["Real Madrid","Bayern Munich"],
+      "match_seven": ["Real Madrid","Cadiz CF"]
+    },
+      
+    "goals": {
+        "match_one": [0,2],
+        "match_two": [0,0],
+        "match_three": [4,4],
+        "match_four": [5,0],
+        "match_five": [0,4],
+        "match_six": [2,1],
+        "match_seven": [3,0]
+      },
+      "x_goals": {
+        "match_one": [2.10,1.24],
+        "match_two": [0.84,0.99],
+        "match_three": [1.16,1.98],
+        "match_four": [2.28,1.28],
+        "match_five": [0.69,1.90],
+        "match_six": [3.29,0.41],
+        "match_seven": [2.43,0.82]
+      },
+      "corners": {
+        "match_one": [9,8],
+        "match_two": [4,5],
+        "match_three": [3,3],
+        "match_four": [4,1],
+        "match_five": [8,5],
+        "match_six": [8,4],
+        "match_seven": [7,4]
+      },
+      "fouls": {
+        "match_one": [12,8],
+        "match_two": [8,11],
+        "match_three": [12,15],
+        "match_four": [6,12],
+        "match_five": [11,10],
+        "match_six": [12,10],
+        "match_seven": [6,12]
+      },
+      "HT_cards": {
+        "match_one": [2,1],
+        "match_two": [1,0],
+        "match_three": [0,1],
+        "match_four": [0,0],
+        "match_five": [2,0],
+        "match_six": [0,0],
+        "match_seven": [0,1]
+      },
+      "FT_cards": {
+        "match_one": [3,1],
+        "match_two": [2,1],
+        "match_three": [2,2],
+        "match_four": [1,1],
+        "match_five": [2,0],
+        "match_six": [1,0],
+        "match_seven": [0,1]
+      }
+    }
+  }
+}
