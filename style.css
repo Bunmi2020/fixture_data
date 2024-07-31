@@ -19,15 +19,27 @@ header  {
 
   body {
     background-image: url(./football-488714_1920.jpg);
-    
+    background-position: center;
+    background-size: cover;
   }
 
   main {
-    background-color: rgba(245, 245, 220, 0.8);
+    background-color: hsla(60, 27%, 96%, 0.837);
     color: black;
-    margin: 5% 7%;
-    padding: 3% 7%;
+    font-size: large;
+    margin: 5% 10%;
+    padding: 3% 10%;
     text-align: center;
+  }
+
+  .privacy_policy {
+    text-align: left;
+    margin: 5% 13%;
+    padding: 3% 7%;
+  }
+
+  .subheading, .bold_list {
+    font-weight: bold;
   }
 
   main img {
