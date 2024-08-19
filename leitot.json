@@ -1,0 +1,65 @@
+{
+    "fixture": "Leicester vs Tottenham",
+     "stadium": "King Power Stadium",
+     "Weather": "Partly cloudy",
+     "pitch_condition": "Good",
+     "type_of_match": "Regular",
+     "referee": {
+       "name": "Kavanagh C.",
+       "fouls_per_tackle": 0.53,
+       "yellow_per_game": 3.90
+     },
+     "head_to_head": {
+       "teams": {
+         "match_one": ["Leicester","Tottenham"],
+         "match_two": ["Tottenham","Leicester"],
+         "match_three": ["Tottenham","Leicester"],
+         "match_four": ["Leicester","Tottenham"],
+         "match_five": ["Leicester","Tottenham"]
+       },
+       
+       "goals": {
+         "match_one": [4,1],
+         "match_two": [6,2],
+         "match_three": [3,1],
+         "match_four": [2,3],
+         "match_five": [2,4]
+       },
+       "x_goals": {
+         "match_one": [1.45,1.21],
+         "match_two": [1.23, 0.35],
+         "match_three": [2.35, 1.20],
+         "match_four": [3.10,2.45],
+         "match_five": [ ]
+       },
+       "corners": {
+         "match_one": [1,5],
+         "match_two": [6,1],
+         "match_three": [6,3],
+         "match_four": [3,8],
+         "match_five": [8,7]
+       },
+       "fouls": {
+         "match_one": [14,9],
+         "match_two": [9,9],
+         "match_three": [13,8],
+         "match_four": [6,12],
+         "match_five": [9,8]
+       },
+       "HT_cards": {
+         "match_one": [2,1],
+         "match_two": [0,0],
+         "match_three": [1,0],
+         "match_four": [0,0],
+         "match_five": [0,0]
+       },
+       "FT_cards": {
+         "match_one": [5,2],
+         "match_two": [0,2],
+         "match_three": [2,3],
+         "match_four": [1,2],
+         "match_five": [0,2]
+       }
+     }
+    
+   }
