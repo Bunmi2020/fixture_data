@@ -1,0 +1,64 @@
+{
+  "fixture": "Newcastle vs Man City",
+  "league": "🇬🇧 Premier League",
+  "stadium": "St. James' Park",
+  "weather": "Cloudy",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Gillett J.",
+    "fouls_per_tackle": "0.56",
+    "yellow_per_game": "4.57"
+  },
+  "head_to_head": {
+    "teams": {
+      "match_one": ["Man City", "Newcastle"],
+      "match_two": ["Newcastle", "Man City"],
+      "match_three": ["Man City", "Newcastle"],
+      "match_four": ["Man City", "Newcastle"],
+      "match_five": ["Newcastle","Man City"]
+    },
+    "goals": {
+      "match_one": [2,0],
+      "match_two": [2,3],
+      "match_three": [1,0],
+      "match_four": [2,0],
+      "match_five": [3,3]
+    },
+    "x_goals": {
+      "match_one": [1.37,0.26],
+      "match_two": [1.15,3.27],
+      "match_three": [0.96,0.25],
+      "match_four": [1.39,0.46],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [11,2],
+      "match_two": [3,13],
+      "match_three": [3,0],
+      "match_four": [8,4],
+      "match_five": [5,5]
+    },
+    "fouls": {
+      "match_one": [7,16],
+      "match_two": [7,7],
+      "match_three": [12,11],
+      "match_four": [8,13],
+      "match_five": [14,7]
+    },
+    "HT_cards": {
+      "match_one": [0,2],
+      "match_two": [1,1],
+      "match_three": [0,2],
+      "match_four": [0,0],
+      "match_five": [2,1]
+    },
+    "FT_cards": {
+      "match_one": [0,3],
+      "match_two": [1,2],
+      "match_three": [1,5],
+      "match_four": [2,4],
+      "match_five": [4,2]
+    }
+  }
+}
